@@ -1,3 +1,4 @@
+
 SURU++
 URL:
 
@@ -12,7 +13,8 @@ The original Suru icon set and concept was created by:
 
 Core developers (in order of appearance):
 
-- Paul Beyens (original designer of Tellekrin-coloured icons) <@paulxfce>
-- Andrea Bonanni (original author of Suru++) <bonandry@gmail.com>
-- Gustavo Costa (redesigned the Tellekrin-uncoloured icons) <gusbemacbe@gmail.com>
+- Andrea Bonanni (original author) <bonandry@gmail.com>
 
+Collaborators and contributors:
+
+- Gustavo Costa <gusbemacbe@gmail.com>
