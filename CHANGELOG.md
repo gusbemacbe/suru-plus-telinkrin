@@ -2,9 +2,9 @@
 
 * Starting the new Telinkrin icons theme repository:
   * I redesigned all Telinkrin-uncoloured icons, repainiting to Telinkrin colour;
-  * I purged all the outdated icons and replaced all for updated icons, creating aliases of Suru++'s icons, for working in KDE.
-* I have fixed all icons relative icons of `apps/scalable`, replacing the old `../../SURU-PLUS/apps/scalable` with ``../../Suru++/apps/scalable`
-* I updated README, instructions and issues templates
+  * I purged all the outdated icons and replaced all for updated icons, creating aliases of Suru++'s icons, for working in KDE;
+  * I have fixed all icons relative icons of `apps/scalable`, replacing the old `../../SURU-PLUS/apps/scalable` with `../../Suru++/apps/scalable`. 
+* I updated README, instructions and issues templates!
 
 # v11
 
