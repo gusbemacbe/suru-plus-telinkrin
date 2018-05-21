@@ -2,10 +2,6 @@
   <img src="Title.svg" alt="Title" height="200px" width="200px"> <br/>
 </p>
 
-<p align="center">
-  <img src="Logo-Title.svg" alt="Title" height="200px" width="200px">
-</p>
-
 <h3 align="center">A desaturated-blue-coloured theme, designed by <a href="http://opendesktop.org/member/455718">Paul Beyens</a>, based on Andrea Bonnani's <a href="https://github.com/Magog64/SURU-PLUS">Suru++</a> and adapted to the Telinkrin GTK theme</h3>
 
 <p align="center"> 
