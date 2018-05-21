@@ -1,9 +1,21 @@
 [Icon Theme]
-Name=Telinkrin-Suru
+Name=Suru++ Telinkrin
+
+Comment=A Paul Beyens' desaturated-blue-coloured icon theme for users of Telinkrin GTK theme
+Comment[ca]=Un tema de icona de blau desaturat de Paul Beyens per als usuaris del tema Telinkrin GTK
+Comment[de]=Ein Paul Beyens entsättigten-blau-farbiges Ikonenthema für Benutzer des Telinkrin GTK Themas
+Comment[el]=Ένα αποκορεσμένο-μπλε θέμα εικονιδίων, του Παύλου Μπέιενς, για τους χρήστες του θέματος Telinkrin GTK
+Comment[es]=Un tema azul desaturado de íconos, diseñado por Paul Beyens, para los usuarios del tema Telinkrin GTK
+Comment[fr]=Un thème bleu-désaturé d'icônes, dessiné par de Paul Beyens, pour les utilisateurs du thème Telinkrin GTK
+Comment[it]=Un tema blu desaturato d'icone, di Paul Beyens, per gli utenti del tema Telinkrin GTK
+Comment[ka]=დაუნაყრებელი ლურჯი ხატები თემა, შექმნილია პოლ ბეიენსის მიერ, Telinkrin GTK-ის მომხმარებლებისთვის
+Comment[pt_BR]=Um tema azul desaturado de ícones de Paul Beyens para usuários do tema Telinkrin GTK
+Comment[pt_PT]=Um tema azul desaturado de ícones de Paul Beyens para utilizadores do tema Telinkrin GTK
+
 
 DisplayDepth=32
 
-Inherits=hicolor
+Inherits=Suru++
 
 Example=folder
 
