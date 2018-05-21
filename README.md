@@ -38,7 +38,7 @@ We have already reported these issues:
 
 We provide desktop files (AppImage, native Debian packages, snap app and source codes) for you for being able of opening the apps and displaying well the icons. You can download them from  <a href="https://github.com/Magog64/SURU-PLUS/tree/master/desktop">Suru++</a>. Copy them to `your_name/local/applications/`, so they won't be affected or modified when you make next updates of Ubuntu and/or PPAs.
 
-** Update:** GNOME developers updated the GNome version, turning Nautilus unable of opening or doubleclicking the desktop files, classifying them as untrustful. We recommend you to replace for other file manager or for graphic environment.
+**Update:** GNOME developers updated the GNome version, turning Nautilus unable of opening or doubleclicking the desktop files, classifying them as untrustful. We recommend you to replace for other file manager or for graphic environment.
 
 We recommend you to back your files up when you intend to make a clean install or reinstall your distribution.
 
