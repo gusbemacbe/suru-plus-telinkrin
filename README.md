@@ -8,7 +8,7 @@
   <img src="screenshot.jpg" alt="SCreenshot" style="border-radius: 10px"> <br/>
 </p>
 
-This desaturated-blue-coloured icons theme was designed by <a href="http://opendesktop.org/member/455718">Paul Beyens</a> and now redesigned and powered by [Gustavo Costa](https://github.com/gusbemacbe) and [Andrea Bonnani](https://github.com/Magog64)'s Suru++. It is designed for users who use Telekrin GTK as desktop theme. 
+This desaturated-blue-coloured icons theme Suru++ Telinkrin (former Telinkrin Icons Theme) was designed by <a href="http://opendesktop.org/member/455718">Paul Beyens</a> and now redesigned and powered by [Gustavo Costa](https://github.com/gusbemacbe) and [Andrea Bonnani](https://github.com/Magog64)'s Suru++. It is designed for users who use Telekrin GTK as desktop theme. 
 
 ## Installation
 
