@@ -1,3 +1,8 @@
+# v11.2
+
+* I added omment in several languages for `index.theme`.
+* I fixed orthography errors in the Markdown files. 
+
 # v11.1
 
 * Starting the new Telinkrin icons theme repository:
