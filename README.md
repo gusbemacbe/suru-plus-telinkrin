@@ -1,11 +1,15 @@
 <p align="center"> 
-<img src="Title.svg" alt="Title" height="200px" width="200px"> <br/>
-<img src="Logo-Title.svg" alt="Title" height="200px" width="200px">
+  <img src="Title.svg" alt="Title" height="200px" width="200px"> <br/>
 </p>
+
+<p align="center">
+  <img src="Logo-Title.svg" alt="Title" height="200px" width="200px">
+</p>
+
 <h3 align="center">A desaturated-blue-coloured theme, designed by <a href="http://opendesktop.org/member/455718">Paul Beyens</a>, based on Andrea Bonnani's <a href="https://github.com/Magog64/SURU-PLUS">Suru++</a> and adapted to the Telinkrin GTK theme</h3>
 
 <p align="center"> 
-<img src="screenshot.jpg" alt="SCreenshot" style="border-radius: 10px"> <br/>
+  <img src="screenshot.jpg" alt="SCreenshot" style="border-radius: 10px"> <br/>
 </p>
 
 This desaturated-blue-coloured icons theme was designed by <a href="http://opendesktop.org/member/455718">Paul Beyens</a> and now redesigned and powered by [Gustavo Costa](https://github.com/gusbemacbe) and [Andrea Bonnani](https://github.com/Magog64)'s Suru++. It is designed for users who use Telekrin GTK as desktop theme. 
