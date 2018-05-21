@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Missed icon
+about: This issue template is designed for ONE missed icon report.
 
 ---
 
