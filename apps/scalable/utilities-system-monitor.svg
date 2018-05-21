@@ -15,8 +15,8 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.2 (unknown)"
-   sodipodi:docname="33.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="utilities-system-monitor.svg">
   <defs
      id="defs1482">
     <clipPath
@@ -647,7 +647,7 @@
        inkscape:collect="always"
        id="linearGradient1092">
       <stop
-         style="stop-color:#a2bcfe;stop-opacity:1"
+         style="stop-color:#6da6b7;stop-opacity:1"
          offset="0"
          id="stop1088" />
       <stop
@@ -729,16 +729,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.2421875"
-     inkscape:cx="-12.762236"
+     inkscape:cx="-61.648983"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="998"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -752,7 +752,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -790,7 +790,7 @@
        clip-path="url(#clipPath1082-3-7-2)"
        transform="matrix(0.13485389,0,0,0.13485389,-4.9712555,261.01666)" />
     <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#a2bcfe;stroke-width:1.0788312;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#67a2b4;stroke-width:1.0788312;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        d="M 2.0411471,267.48964 H 14.447706 l 6.472987,-17.2613 8.630649,26.97078 5.394155,-16.18246 2.157662,6.47298 2.157661,5.93357 2.157664,-5.93357 h 24.2737"
        id="path925"
        inkscape:connector-curvature="0"

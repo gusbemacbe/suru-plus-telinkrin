@@ -12,7 +12,7 @@
    version="1.1"
    id="svg2"
    sodipodi:docname="dropboxstatus-logo.svg"
-   inkscape:version="0.92.2 (unknown)">
+   inkscape:version="0.92.3 (unknown)">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -34,12 +34,12 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1344"
-     inkscape:window-height="811"
+     inkscape:window-width="1888"
+     inkscape:window-height="926"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="-6.2542373"
+     inkscape:zoom="30.958333"
+     inkscape:cx="12"
      inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="34"
@@ -54,8 +54,8 @@
   </style>
   </defs>
   <path
-     style="color:#d3dae3;opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke-width:1.33188307"
-     d="M 6.6724678,1.689871 0.0130524,5.6855202 5.3405847,9.660392 0,13.666163 6.6724678,17.672468 12,13.676818 5.3405847,9.6811693 12,5.6855202 18.659415,9.7019468 12,13.676818 17.327532,17.672468 24,13.645652 18.659149,9.676641 23.986681,5.6809918 17.327266,1.6853426 11.999734,5.6602145 6.6722014,1.6853426 Z M 12,15.008701 6.6724678,19.004351 5.3405847,18.20574 v 0.798611 L 12,23 18.659415,19.004351 v -0.803819 l -1.331883,0.803819 z"
+     style="color:#d3dae3;opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke-width:1.22089279"
+     d="M 7.1164288,2.9657151 1.0119647,6.6283935 5.895536,10.272026 1,13.943983 7.1164288,17.616429 12,13.95375 5.895536,10.291072 12,6.6283935 18.104464,10.310118 12,13.95375 16.883571,17.616429 23,13.925181 18.10422,10.286921 22.987791,6.6242425 16.883327,2.9615641 11.999756,6.6051966 7.1161846,2.9615641 Z M 12,15.174643 7.1164288,18.837322 5.895536,18.105262 v 0.73206 L 12,22.5 18.104464,18.837322 v -0.736834 l -1.220893,0.736834 z"
      id="path4"
      class="ColorScheme-ButtonBackground"
      inkscape:connector-curvature="0" />

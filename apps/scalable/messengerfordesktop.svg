@@ -15,8 +15,8 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.3 (unknown)"
-   sodipodi:docname="telepathy.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="messengerfordesktop.svg">
   <defs
      id="defs1482">
     <linearGradient
@@ -624,27 +624,27 @@
        id="linearGradient4246">
       <stop
          id="stop4248"
-         style="stop-color:#29ABE2"
+         style="stop-color:#5d9caf;stop-opacity:1"
          offset="0" />
       <stop
          id="stop4250"
-         style="stop-color:#28A9E1"
+         style="stop-color:#5a9aae;stop-opacity:1"
          offset="0.4757" />
       <stop
          id="stop4252"
-         style="stop-color:#23A2DC"
+         style="stop-color:#5597ab;stop-opacity:1"
          offset="0.6639" />
       <stop
          id="stop4254"
-         style="stop-color:#1A96D4"
+         style="stop-color:#4f8c9f;stop-opacity:1"
          offset="0.8012" />
       <stop
          id="stop4256"
-         style="stop-color:#0E85C9"
+         style="stop-color:#478091;stop-opacity:1"
          offset="0.913" />
       <stop
          id="stop4258"
-         style="stop-color:#0071BC"
+         style="stop-color:#3e6f7e;stop-opacity:1"
          offset="1" />
     </linearGradient>
   </defs>
@@ -656,16 +656,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.2421875"
-     inkscape:cx="125.48437"
+     inkscape:cx="76.289189"
      inkscape:cy="128"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1627"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="998"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -679,7 +679,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -703,7 +703,7 @@
        sodipodi:nodetypes="sssssssss"
        transform="matrix(0.26970778,0,0,0.26970778,-7.1289177,220.56049)" />
     <path
-       style="display:inline;opacity:1;fill:url(#linearGradient985);fill-opacity:1.0;stroke:none;stroke-width:0.5394156;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+       style="display:inline;opacity:1;fill:url(#linearGradient985);fill-opacity:1;stroke:none;stroke-width:0.5394156;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
        d="m 43.837426,232.42763 c 19.593907,0 22.394175,2.79326 22.394175,22.36889 v 15.67677 c 0,19.57555 -2.800268,22.36888 -22.394175,22.36888 h -19.94152 c -19.5939063,0 -22.3941745,-2.79333 -22.3941745,-22.36888 v -15.67677 c 0,-19.57563 2.8002682,-22.36889 22.3941745,-22.36889 z"
        id="rect877"
        inkscape:connector-curvature="0"
@@ -740,7 +740,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsccccccscsccc" />
     <path
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.1;fill:url(#linearGradient4164);fill-opacity:1.0;stroke:none;stroke-width:0.2697078;enable-background:new"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.1;fill:url(#linearGradient4164);fill-opacity:1;stroke:none;stroke-width:0.2697078;enable-background:new"
        d="m 55.443289,259.22532 -21.551444,16.36454 h 16.607192 c 1.928114,0 3.223484,-0.4089 3.888385,-1.20674 0.698108,-0.83109 1.055867,-2.19462 1.055867,-4.08951 z"
        id="path4175"
        inkscape:connector-curvature="0"
@@ -773,9 +773,9 @@
          cy="258.45163"
          cx="24.759434"
          id="path1618"
-         style="opacity:1;fill:#28aae1;fill-opacity:1;stroke:none;stroke-width:1.72297084;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#67a2b4;fill-opacity:1;stroke:none;stroke-width:1.72297084;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <circle
-         style="opacity:1;fill:#28aae1;fill-opacity:1;stroke:none;stroke-width:1.72297084;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#67a2b4;fill-opacity:1;stroke:none;stroke-width:1.72297084;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle1620"
          cx="33.51474"
          cy="258.45163"
@@ -785,7 +785,7 @@
          cy="258.45163"
          cx="42.270046"
          id="circle1622"
-         style="opacity:1;fill:#28aae1;fill-opacity:1;stroke:none;stroke-width:1.72297084;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#67a2b4;fill-opacity:1;stroke:none;stroke-width:1.72297084;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>

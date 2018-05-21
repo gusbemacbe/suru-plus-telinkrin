@@ -15,8 +15,8 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.2 (unknown)"
-   sodipodi:docname="blue.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="preferences-system-bluetooth.svg">
   <defs
      id="defs1482">
     <clipPath
@@ -111,11 +111,11 @@
        inkscape:collect="always"
        id="linearGradient916">
       <stop
-         style="stop-color:#2f5fdd;stop-opacity:1;"
+         style="stop-color:#498294;stop-opacity:1"
          offset="0"
          id="stop912" />
       <stop
-         style="stop-color:#5884f4;stop-opacity:1"
+         style="stop-color:#67a2b4;stop-opacity:1"
          offset="1"
          id="stop914" />
     </linearGradient>
@@ -161,9 +161,9 @@
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="998"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -177,7 +177,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

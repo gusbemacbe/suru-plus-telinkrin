@@ -14,7 +14,7 @@
    width="16"
    height="16"
    id="svg2"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="emblem-dropbox-syncing.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -26,15 +26,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="998"
      id="namedview20"
      showgrid="false"
      inkscape:zoom="59.285715"
-     inkscape:cx="8"
+     inkscape:cx="5.3265061"
      inkscape:cy="7.9999999"
      inkscape:current-layer="svg2"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <defs
      id="defs4">
@@ -102,7 +102,7 @@
   <path
      d="M 8.0000001,1.0000001 C 4.13764,1.0000001 1,4.1376401 1,8 1,11.86236 4.13764,15 8.0000001,15 11.86236,15 15.000006,11.86236 15,8 15,4.1376401 11.86236,1.0000001 8.0000001,1.0000001 Z"
      id="path2555-7-8-5-0"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#5294e2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.87499982;marker:none;enable-background:accumulate"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#67a2b4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.87499982;marker:none;enable-background:accumulate"
      inkscape:connector-curvature="0" />
   <g
      style="display:inline"

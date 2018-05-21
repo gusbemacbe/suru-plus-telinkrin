@@ -14,8 +14,8 @@
    width="24"
    height="24"
    id="svg3738"
-   inkscape:version="0.92.2 (unknown)"
-   sodipodi:docname="transmission-panel.svg">
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="transmission-tray-icon.svg">
   <metadata
      id="metadata13">
     <rdf:RDF>
@@ -42,7 +42,7 @@
      id="namedview11"
      showgrid="false"
      inkscape:zoom="13.409091"
-     inkscape:cx="-19.931768"
+     inkscape:cx="8.7610415"
      inkscape:cy="11"
      inkscape:window-x="0"
      inkscape:window-y="34"
@@ -92,8 +92,8 @@
        x1="159.68553" />
   </defs>
   <path
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.4000001;marker:none;enable-background:accumulate"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.20000005;marker:none;enable-background:accumulate"
      id="path3712"
-     d="m 6.2875001,2.5 c -0.7756001,0 -1.4,0.6244 -1.4,1.4 0,0.7756 0.6243999,1.4 1.4,1.4 H 10.53125 l -0.0875,5.6 H 4.6250001 L 2,22.1 v 1.4 H 21.6875 V 22.1875 L 19.2375,10.9 h -5.95 v 4.2 h 2.8 L 11.931251,19.3875 7.6875001,15.1 H 10.44375 l 0.0875,-4.2 h 2.75625 V 5.3 h 4.2 c 0.7756,0 1.400001,-0.6244 1.400001,-1.4 0,-0.7756 -0.624401,-1.4 -1.400001,-1.4 z"
+     d="m 7.1750001,4 c -0.6648001,0 -1.2,0.5352 -1.2,1.2 0,0.6648 0.5351999,1.2 1.2,1.2 H 10.8125 l -0.075,4.8 H 5.7500001 L 3.5,20.8 V 22 h 16.875 v -1.125 l -2.1,-9.675 h -5.1 v 3.6 h 2.4 L 12.012501,18.475 8.3750001,14.8 H 10.7375 l 0.075,-3.6 H 13.175 V 6.4 h 3.6 c 0.6648,0 1.200001,-0.5352 1.200001,-1.2 C 17.975001,4.5352 17.4398,4 16.775,4 Z"
      inkscape:connector-curvature="0" />
 </svg>

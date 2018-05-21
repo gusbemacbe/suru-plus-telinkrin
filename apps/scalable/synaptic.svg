@@ -15,7 +15,7 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="synaptic.svg">
   <defs
      id="defs1482">
@@ -348,27 +348,27 @@
        id="linearGradient4246">
       <stop
          id="stop4248"
-         style="stop-color:#29ABE2"
+         style="stop-color:#72a9ba;stop-opacity:1"
          offset="0" />
       <stop
          id="stop4250"
-         style="stop-color:#28A9E1"
+         style="stop-color:#65a1b3;stop-opacity:1"
          offset="0.4757" />
       <stop
          id="stop4252"
-         style="stop-color:#23A2DC"
+         style="stop-color:#5899ac;stop-opacity:1"
          offset="0.6639" />
       <stop
          id="stop4254"
-         style="stop-color:#1A96D4"
+         style="stop-color:#4f8ea1;stop-opacity:1"
          offset="0.8012" />
       <stop
          id="stop4256"
-         style="stop-color:#0E85C9"
+         style="stop-color:#498293;stop-opacity:1"
          offset="0.913" />
       <stop
          id="stop4258"
-         style="stop-color:#0071BC"
+         style="stop-color:#3f707f;stop-opacity:1"
          offset="1" />
     </linearGradient>
     <filter
@@ -393,16 +393,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.6590433"
-     inkscape:cx="33.090149"
+     inkscape:cx="-26.517756"
      inkscape:cy="125.84097"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="998"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -470,7 +470,7 @@
        id="path1099"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.66321599;marker:none;enable-background:accumulate;filter:url(#filter908);opacity:0.3"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.66321599;marker:none;filter:url(#filter908);enable-background:accumulate"
        id="path890"
        d="m 29.887379,242.40682 v 21.88613 H 17.286268 l 16.5804,18.57004 16.5804,-18.57004 H 37.845972 v -21.88613 z"
        inkscape:connector-curvature="0" />

@@ -1,10 +1,69 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<svg height="16" style="enable-background:new" version="1.1" width="16" xmlns="http://www.w3.org/2000/svg">
- <title>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   style="enable-background:new"
+   version="1.1"
+   width="16"
+   id="svg10"
+   sodipodi:docname="network-vpn-error-symbolic.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="998"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="0.54237288"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <title
+     id="title2">
   Paper Symbolic Icon Theme
  </title>
- <g transform="translate(-305.00346,674.99842)">
-  <path d="m 309.50346,-671.99506 c -2.48528,0 -4.5,2.01472 -4.5,4.5 0,2.48528 2.01472,4.5 4.5,4.5 1.90471,-0.003 3.60143,-1.20422 4.23633,-3 l 2.26367,-0.002 0,-3 -2.26367,0.002 c -0.6349,-1.79578 -2.33162,-2.99733 -4.23633,-3 z m 10.5,2.99609 0,2.9961 1,0.004 0,-3 -1,0 z m -10.5,0.004 c 0.82843,0 1.5,0.67157 1.5,1.5 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82843,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67157,-1.5 1.5,-1.5 z" style="opacity:0.35;fill:#5c616c;fill-opacity:1;enable-background:new"/>
-  <path class="error" d="m 317.00346,-668.99506 -1e-5,4 0.25,2 1.5,0 0.25,-2 1e-5,-4 z m 0,7 0,2 2,0 0,-2 z" style="fill:#5294e2;fill-opacity:1;"/>
- </g>
+  <g
+     transform="translate(-305.00346,674.99842)"
+     id="g8">
+    <path
+       d="m 309.50346,-671.99506 c -2.48528,0 -4.5,2.01472 -4.5,4.5 0,2.48528 2.01472,4.5 4.5,4.5 1.90471,-0.003 3.60143,-1.20422 4.23633,-3 l 2.26367,-0.002 v -3 l -2.26367,0.002 c -0.6349,-1.79578 -2.33162,-2.99733 -4.23633,-3 z m 10.5,2.99609 v 2.9961 l 1,0.004 v -3 h -1 z m -10.5,0.004 c 0.82843,0 1.5,0.67157 1.5,1.5 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82843,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67157,-1.5 1.5,-1.5 z"
+       style="opacity:0.35;fill:#5c616c;fill-opacity:1;enable-background:new"
+       id="path4"
+       inkscape:connector-curvature="0" />
+    <path
+       class="error"
+       d="m 317.00346,-668.99506 -1e-5,4 0.25,2 h 1.5 l 0.25,-2 1e-5,-4 z m 0,7 v 2 h 2 v -2 z"
+       style="fill:#67a2b4;fill-opacity:1"
+       id="path6"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

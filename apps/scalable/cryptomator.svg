@@ -15,7 +15,7 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.3 (unknown)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="cryptomator.svg">
   <defs
      id="defs1482">
@@ -607,17 +607,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.3353544"
-     inkscape:cx="50.474603"
-     inkscape:cy="127.84507"
+     inkscape:zoom="2.3584517"
+     inkscape:cx="189.7609"
+     inkscape:cy="160.0696"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="998"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -639,7 +639,8 @@
      inkscape:label="Livello 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-229.26666)">
+     transform="translate(0,-229.26666)"
+     style="display:inline">
     <path
        sodipodi:nodetypes="sssssssss"
        inkscape:connector-curvature="0"
@@ -700,7 +701,7 @@
        cx="-262.63489"
        transform="matrix(0,-1,-1,0,0,0)"
        id="circle4371"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#83c728;fill-opacity:1;stroke:none;stroke-width:0.53941554;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#67a2b4;fill-opacity:1;stroke:none;stroke-width:0.53941554;marker:none;enable-background:accumulate" />
     <circle
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.99999976;marker:none;filter:url(#filter1013);enable-background:accumulate"
        id="circle1011"
@@ -709,7 +710,7 @@
        cy="-152"
        r="68" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.05;fill:url(#radialGradient4404);fill-opacity:1;stroke:none;stroke-width:0.53941554;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.05;fill:url(#radialGradient4404);fill-opacity:1;stroke:none;stroke-width:0.53948539;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
        d="M 33.866476,241.05809 A 21.576659,21.576659 0 0 0 12.290044,262.6349 21.576659,21.576659 0 0 0 33.866476,284.21171 21.576659,21.576659 0 0 0 55.443289,262.6349 21.576659,21.576659 0 0 0 33.866476,241.05809 Z m 0,7.71973 A 13.857082,13.857082 0 0 1 47.723552,262.6349 13.857082,13.857082 0 0 1 33.866476,276.49198 13.857082,13.857082 0 0 1 20.009402,262.6349 13.857082,13.857082 0 0 1 33.866476,248.77782 Z"
        id="circle4396"
        inkscape:connector-curvature="0" />
