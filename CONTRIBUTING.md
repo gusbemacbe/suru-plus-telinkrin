@@ -1,6 +1,5 @@
-
-SURU++
-URL:
+Suru++ Telinkrin
+URL: https://github.com/gusbemacbe/suru-plus-telinkrin
 
 The FreeDesktop Suru icon set is designed and developed by:
 
