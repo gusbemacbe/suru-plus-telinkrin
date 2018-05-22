@@ -1,5 +1,8 @@
 # Installation with CLI
 
+
+You do not need to download and install Sam Hewitt's Suru Icon, because it already comes installed under Lubuntu 18.04, Ubuntu 18.04 and above
+
 Firstly, you must have `git` and `svn` installed. 
 
 ```shell
@@ -25,7 +28,7 @@ mv SURU-PLUS Suru++
 mv suru-plus-telinkrin 'Suru++ Telinkrin'
 ```
 
-You do not need to download and install Sam Hewitt's Suru Icon, because it already comes installed under Ubuntu 18.04 and above
+### SVN
 
 ```shell
 # If the folder icons doesn't exist
