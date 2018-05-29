@@ -12,12 +12,28 @@ This desaturated-blue-coloured icons theme Suru++ Telinkrin (former Telinkrin Ic
 
 ## Installation
 
-You can choose two option — without or with CLI. We recommend to use CLI's SVN because it is quicker like a MIllennium Falcon.  
+The good news is that, you are no longer required to depend on Sam Hewitt's and other Suru++ packs.
+
+### PPA (Ubuntu and Debian-derived)
+
+The another good news is that, you can say goodbye to non-CLI and CLI instruction, install like a Millennium Falcon. Gustavo Costa's (@gusbemacbe) official PPA is:
+
+```shell
+sudo add-apt-repository ppa:gusbemacbe/ppa
+sudo apt-get update
+sudo apt install suru-plus-pack
+```
+
+The full pack comes with all gifts - Suru++ cursor, GTK and icons themes and wallpapers. Be happy to receive daily updates.
+
+## Don't you like the PPA? You can use the alternative: 
+
+You can choose two options — without or with CLI. We recommend to use CLI's SVN because it is quicker like a Millennium Falcon.  
 
 * [Installation without CLI](instructions_without_cli.md)
 * [Installation with CLI](instructions_with_cli.md)
 
-### **AUR (Arch Linux and Arch-derived), PPA (Ubuntu and Debian-derived) and RPM**
+### **AUR (Arch Linux and Arch-derived), dnf (Fedora and Fedora-derived), yum (CentOS and CentOS-derived) and zypper (openSUSE)**
 
 Soon...
 
@@ -74,4 +90,4 @@ The changelog is available on the release page in theme's repository.
 
 ## License
 
-LGPL3 © Suru++ Telinkrin by Paul Beyens, Andrea Bonnani and Gustavo Costa
+GPL3 © Suru++ Telinkrin by Paul Beyens, Andrea Bonnani and Gustavo Costa
