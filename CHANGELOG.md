@@ -1,3 +1,7 @@
+# v12.1
+
+I fixed and purged zombies in `apps/sacalable`. I was not aware that there were still dead symlinks in apps/scalable. 
+
 # v12
 
 * Biggest updates:
