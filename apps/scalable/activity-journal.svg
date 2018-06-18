@@ -15,8 +15,8 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="cs-date-time.svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="activity-journal.svg">
   <defs
      id="defs1482">
     <clipPath
@@ -294,11 +294,11 @@
        inkscape:collect="always"
        id="linearGradient4338-7">
       <stop
-         style="stop-color:#2b898f;stop-opacity:1"
+         style="stop-color:#3b6a79;stop-opacity:1"
          offset="0"
          id="stop4340-2" />
       <stop
-         style="stop-color:#5bdbc1;stop-opacity:1"
+         style="stop-color:#79adbd;stop-opacity:1"
          offset="1"
          id="stop4342-6" />
     </linearGradient>
@@ -330,7 +330,7 @@
     </filter>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4336-3"
+       xlink:href="#linearGradient4336-3-6"
        id="linearGradient4342"
        x1="624.00006"
        y1="369.23853"
@@ -416,6 +416,33 @@
          stdDeviation="0.57066412"
          id="feGaussianBlur1728" />
     </filter>
+    <linearGradient
+       id="linearGradient4336-3-6">
+      <stop
+         style="stop-color:#88b6c4;stop-opacity:1"
+         offset="0"
+         id="stop4338-8-7" />
+      <stop
+         id="stop4344-3-5"
+         offset="0.27800092"
+         style="stop-color:#88b6c4;stop-opacity:1" />
+      <stop
+         style="stop-color:#5d9caf;stop-opacity:1"
+         offset="0.27800092"
+         id="stop4346-3-3" />
+      <stop
+         id="stop4350-1-5"
+         offset="0.70735365"
+         style="stop-color:#5d9caf;stop-opacity:1" />
+      <stop
+         id="stop4348-6-6"
+         offset="0.70936078"
+         style="stop-color:#498293;stop-opacity:1" />
+      <stop
+         style="stop-color:#498293;stop-opacity:1"
+         offset="1"
+         id="stop4340-0-2" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -424,17 +451,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.2421875"
-     inkscape:cx="128"
+     inkscape:zoom="2.2925728"
+     inkscape:cx="79.26747"
      inkscape:cy="128"
      inkscape:document-units="px"
-     inkscape:current-layer="g1646"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -448,7 +475,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -541,7 +568,7 @@
            inkscape:connector-curvature="0"
            id="path4092"
            d="m 624.00004,319.35583 c 0,-7.37615 17.99999,-3.68808 17.99999,7.37614 0,-18.44036 28,-18.44036 28,0 0,-11.06422 18,-14.75229 18,-7.37614 V 133.45602 h -63.99999 z"
-           style="fill:url(#linearGradient4342);fill-opacity:1;stroke:none;stroke-width:2" />
+           style="fill:url(#linearGradient4342);fill-opacity:1.0;stroke:none;stroke-width:2" />
       </g>
       <circle
          style="opacity:0.3;fill:#131313;fill-opacity:1;stroke:none;stroke-width:0.52520567;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1714)"

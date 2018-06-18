@@ -1,69 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="16"
-   style="enable-background:new"
-   version="1.1"
-   width="16"
-   id="svg10"
-   sodipodi:docname="network-wireless-error-symbolic.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
-  <metadata
-     id="metadata16">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs14" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="998"
-     id="namedview12"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g8" />
-  <title
-     id="title2">
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg height="16" style="enable-background:new" version="1.1" width="16" xmlns="http://www.w3.org/2000/svg">
+ <title>
   Paper Symbolic Icon Theme
  </title>
-  <g
-     transform="translate(-305.00344,614.99841)"
-     id="g8">
-    <path
-       d="m 313.00344,-613.9931 c -2.89543,0 -5.79086,1.10272 -8,3.31055 l 8,9.6875 3,-3.63281 v -5.36719 h 4.43164 l 0.56836,-0.6875 c -2.20914,-2.20783 -5.10457,-3.31055 -8,-3.31055 z"
-       style="opacity:0.35;fill:#5c616c;fill-opacity:1"
-       id="path4"
-       inkscape:connector-curvature="0" />
-    <path
-       class="error"
-       d="m 317.00344,-608.99505 -1e-5,4 0.25,2 h 1.5 l 0.25,-2 1e-5,-4 z m 0,7 v 2 h 2 v -2 z"
-       style="fill:#67a2b4;fill-opacity:1"
-       id="path6"
-       inkscape:connector-curvature="0" />
-  </g>
+ <g transform="translate(-305.00344,614.99841)">
+  <path d="m 313.00344,-613.9931 c -2.89543,0 -5.79086,1.10272 -8,3.31055 l 8,9.6875 3,-3.63281 0,-5.36719 4.43164,0 0.56836,-0.6875 c -2.20914,-2.20783 -5.10457,-3.31055 -8,-3.31055 z" style="opacity:0.35;fill:#5c616c;fill-opacity:1;"/>
+  <path class="error" d="m 317.00344,-608.99505 -1e-5,4 0.25,2 1.5,0 0.25,-2 1e-5,-4 z m 0,7 0,2 2,0 0,-2 z" style="fill:#67A2B4;fill-opacity:1;"/>
+ </g>
 </svg>

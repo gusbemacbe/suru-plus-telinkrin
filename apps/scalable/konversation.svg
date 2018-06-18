@@ -15,7 +15,7 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="konversation.svg">
   <defs
      id="defs1482">
@@ -151,14 +151,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.8219183"
-     inkscape:cx="-131.00359"
+     inkscape:cx="-130.72915"
      inkscape:cy="121.10624"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="998"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -223,7 +223,7 @@
     <path
        id="path920"
        d="m 46.213892,249.67031 -24.694446,7.40834 v 11.1125 l 24.694446,7.40833 v -18.52083 z m -30.868059,7.40834 v 11.1125 h 4.938892 v -11.1125 z m 32.102779,1.2347 v 8.64309 H 52.3875 v -8.64309 z M 19.05,269.42585 v 6.17363 h 3.704166 v -6.17363 z"
-       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:1.23472214;filter:url(#filter938)"
+       style="fill:#000000;fill-opacity:1;stroke-width:1.23472214;filter:url(#filter938);opacity:0.3"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"

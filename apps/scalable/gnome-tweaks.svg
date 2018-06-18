@@ -15,7 +15,7 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="gnome-tweaks.svg">
   <defs
      id="defs1482">
@@ -784,17 +784,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.2421875"
-     inkscape:cx="147.04908"
-     inkscape:cy="202.0241"
+     inkscape:cx="37.624913"
+     inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="799"
-     inkscape:window-height="913"
-     inkscape:window-x="152"
-     inkscape:window-y="126"
-     inkscape:window-maximized="0">
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid2168" />
@@ -807,7 +807,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -882,7 +882,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsscsscsscsc" />
     <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#66a1b4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53941554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#67a2b4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53941554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 50.73243,264.79339 c 1.49135,-0.0188 2.819154,0.27856 3.680222,1.31195 0.797737,0.95315 1.028208,2.18432 1.028208,3.60998 v 7.41661 c 0,1.42568 -0.230513,2.65686 -1.028208,3.60998 -0.87017,1.04437 -2.189247,1.31195 -3.660556,1.31195 H 16.981243 c -1.471311,0 -2.791567,-0.26563 -3.663363,-1.31195 -0.799231,-0.95497 -1.025402,-2.18609 -1.025402,-3.60998 v -7.41661 c 0,-1.42386 0.226128,-2.65499 1.025402,-3.60998 0.871811,-1.04636 2.192037,-1.31195 3.663363,-1.31195 z"
        id="path1458"
        inkscape:connector-curvature="0"

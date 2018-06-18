@@ -15,7 +15,7 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="kde-im-log-viewer.svg">
   <defs
      id="defs1482">
@@ -158,13 +158,13 @@
     <linearGradient
        id="linearGradient3650-7-9">
       <stop
-         style="stop-color:#4c899b;stop-opacity:1"
+         style="stop-color:#88b6c4;stop-opacity:1"
          offset="0"
          id="stop4366" />
       <stop
          id="stop4368"
          offset="1"
-         style="stop-color:#67a2b4;stop-opacity:1" />
+         style="stop-color:#a7c9d3;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -184,14 +184,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6054688"
-     inkscape:cx="4.6715367"
+     inkscape:cx="-93.742086"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="998"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -259,7 +259,7 @@
       <g
          id="g935"
          transform="translate(0.45258272,-0.28511005)"
-         style="opacity:0.6;fill:#ffffff;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;opacity:0.6" />
       <g
          id="g934"
          transform="translate(1.5875197,-1.4176813)">
@@ -449,7 +449,7 @@
           <g
              transform="matrix(-0.26970778,0,0,0.26970778,77.050687,222.28179)"
              id="g1131"
-             style="display:inline;stroke:#ffffff;stroke-opacity:1;enable-background:new">
+             style="display:inline;enable-background:new;stroke:#ffffff;stroke-opacity:1">
             <path
                sodipodi:nodetypes="cc"
                inkscape:connector-curvature="0"
@@ -468,7 +468,7 @@
              cy="261.11972"
              cx="31.73978"
              id="path4260"
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:0.19158882;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.1942327;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:0.19158879;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.1942327;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
         </g>
       </g>
     </g>

@@ -15,7 +15,7 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="kfloppy.svg">
   <defs
      id="defs1482">
@@ -138,16 +138,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.3836734"
-     inkscape:cx="128"
+     inkscape:cx="81.305186"
      inkscape:cy="130.50001"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -161,7 +161,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -229,7 +229,7 @@
        id="path10" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#ff8726;stroke-width:1.11332226;fill-opacity:1"
+       style="fill:#67a2b4;stroke-width:1.11332226;fill-opacity:1"
        d="m 54.978753,278.67521 v 3.71114 c 0,1.64327 -1.242468,2.96812 -2.783304,2.96812 H 13.229167 c -1.541952,0 -2.783305,-1.32485 -2.783305,-2.96812 v -3.71181 z"
        id="path14" />
   </g>

@@ -15,10 +15,22 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.3 (unknown)"
-   sodipodi:docname="messaging-app.svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="emesene.svg">
   <defs
      id="defs1482">
+    <linearGradient
+       id="linearGradient1012"
+       inkscape:collect="always">
+      <stop
+         id="stop1008"
+         offset="0"
+         style="stop-color:#6ea7b8;stop-opacity:0.99607843" />
+      <stop
+         id="stop1010"
+         offset="1"
+         style="stop-color:#88b6c4;stop-opacity:0.27450982" />
+    </linearGradient>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath1025">
@@ -764,7 +776,7 @@
     </clipPath>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4120"
+       xlink:href="#linearGradient4221"
        id="linearGradient4177"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.13485389,0,0,0.13485389,-0.65593125,225.68493)"
@@ -774,19 +786,7 @@
        y2="348.03757" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4120">
-      <stop
-         style="stop-color:#e6a240;stop-opacity:0.996"
-         offset="0"
-         id="stop4122" />
-      <stop
-         style="stop-color:#eab261;stop-opacity:0.27450982"
-         offset="1"
-         id="stop4124" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4120"
+       xlink:href="#linearGradient1012"
        id="linearGradient4164"
        gradientUnits="userSpaceOnUse"
        x1="354.0368"
@@ -814,7 +814,7 @@
       <stop
          id="stop4293"
          offset="1"
-         style="stop-color:#f0e9df;stop-opacity:1" />
+         style="stop-color:#e0ecf0;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -832,11 +832,11 @@
       <stop
          id="stop4318-2"
          offset="0"
-         style="stop-color:#f3e6d2;stop-opacity:0.99607843" />
+         style="stop-color:#dae8ec;stop-opacity:0.99607843" />
       <stop
          id="stop4320-4"
          offset="1"
-         style="stop-color:#f7f4ee;stop-opacity:1" />
+         style="stop-color:#eff5f7;stop-opacity:1" />
     </linearGradient>
     <filter
        inkscape:collect="always"
@@ -904,11 +904,11 @@
        inkscape:collect="always"
        id="linearGradient4221">
       <stop
-         style="stop-color:#f37e40;stop-opacity:1;"
+         style="stop-color:#67a2b4;stop-opacity:1"
          offset="0"
          id="stop4223" />
       <stop
-         style="stop-color:#fac82e;stop-opacity:1"
+         style="stop-color:#70a7b8;stop-opacity:1"
          offset="1"
          id="stop4225" />
     </linearGradient>
@@ -946,17 +946,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.2421875"
-     inkscape:cx="128"
+     inkscape:zoom="2.2925728"
+     inkscape:cx="79.26747"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -970,7 +970,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1031,13 +1031,13 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsccccccscsccc" />
     <path
-       style="display:inline;opacity:1;fill:#fbc58c;fill-opacity:1;stroke-width:0.2697078;enable-background:new"
+       style="display:inline;opacity:1;fill:#67a2b4;fill-opacity:1;stroke-width:0.2697078;enable-background:new"
        d="m 20.920692,256.16191 v 2.15767 h 25.891946 v -2.15767 z"
        id="path4227"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.1;fill:url(#linearGradient4164);fill-opacity:1;stroke:none;stroke-width:0.2697078;enable-background:new"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.019;fill:url(#linearGradient4164);fill-opacity:1;stroke:none;stroke-width:0.2697078;enable-background:new"
        d="m 55.443288,259.22532 -21.551444,16.36454 h 16.607192 c 1.928114,0 3.223484,-0.4089 3.888385,-1.20674 0.698108,-0.83109 1.055867,-2.19462 1.055867,-4.08951 z"
        id="path4175"
        inkscape:connector-curvature="0"
@@ -1053,7 +1053,7 @@
        inkscape:connector-curvature="0"
        id="path975"
        d="m 20.920692,262.6349 v 2.15767 h 12.945971 v -2.15767 z"
-       style="display:inline;opacity:1;fill:#fbc58c;fill-opacity:1;stroke-width:0.2697078;enable-background:new" />
+       style="display:inline;opacity:1;fill:#67a2b4;fill-opacity:1;stroke-width:0.2697078;enable-background:new" />
     <path
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2697078;enable-background:new"
        d="m 17.234334,247.53127 c -1.927972,-0.0241 -3.223766,0.43111 -3.888638,1.22896 -0.698108,0.83109 -1.055653,2.19446 -1.055653,4.08934 v 0.53941 c 0,-1.89488 0.357545,-3.25825 1.055653,-4.08934 0.664872,-0.79784 1.960666,-1.25305 3.888638,-1.22896 h 8.754968 21.291638 3.218056 c 1.928114,0 3.223781,0.43112 3.888639,1.22896 0.698109,0.83109 1.055653,2.19446 1.055653,4.08934 v -0.53941 c 0,-1.89489 -0.357544,-3.25825 -1.055653,-4.08934 -0.664858,-0.79784 -1.960525,-1.22896 -3.888639,-1.22896 H 47.28094 25.989302 Z"

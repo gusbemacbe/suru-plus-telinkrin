@@ -15,8 +15,8 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="3.svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="distributor-logo-solus.svg">
   <defs
      id="defs1482">
     <clipPath
@@ -768,16 +768,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.2421875"
-     inkscape:cx="20.336818"
+     inkscape:cx="-28.395712"
      inkscape:cy="140.33735"
      inkscape:document-units="px"
      inkscape:current-layer="g4802-5"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -791,7 +791,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -882,7 +882,7 @@
          id="circle4812-0"
          style="fill:#500000;fill-opacity:0;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
-         style="fill:#5294e2;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#67a2b4;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m -788.70147,-704.80948 c -21.74774,3.06876 -43.90018,2.30793 -65.72445,0.63872 14.04431,17.91048 38.45322,26.93623 60.99997,22.586 21.76014,-3.74023 40.83336,-19.67568 48.51661,-40.35033 -12.92189,9.16602 -28.18857,14.72923 -43.79213,17.12561 z"
          id="path4814-1"
          inkscape:connector-curvature="0"

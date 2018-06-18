@@ -15,8 +15,8 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="2.svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="cs-language.svg">
   <defs
      id="defs1482">
     <clipPath
@@ -804,16 +804,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.2421875"
-     inkscape:cx="113.23071"
+     inkscape:cx="64.49818"
      inkscape:cy="126.18902"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="g925"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -827,7 +827,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -856,7 +856,7 @@
          id="path979"
          transform="matrix(2.0393079,0,0,2.0393079,-29.55473,10.892486)" />
       <path
-         style="display:inline;opacity:1;fill:#779cf9;fill-opacity:1;stroke:none;stroke-width:4.07861567;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         style="display:inline;opacity:1;fill:#67a2b4;fill-opacity:1;stroke:none;stroke-width:4.07861567;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
          d="m 301.90773,44.402363 c 148.15296,0 169.32628,21.120327 169.32628,169.135107 v 118.53478 c 0,148.01417 -21.17332,169.1351 -169.32628,169.1351 H 151.12641 c -148.1529601,0 -169.32628,-21.12093 -169.32628,-169.1351 V 213.53747 c 0,-148.01478 21.1733199,-169.135107 169.32628,-169.135107 z"
          id="rect877"
          inkscape:connector-curvature="0"
@@ -959,7 +959,7 @@
              cy="158"
              cx="154"
              id="circle1001"
-             style="opacity:1;fill:#80a3fa;fill-opacity:1;stroke:#ffffff;stroke-width:8;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+             style="opacity:1;fill:#67a2b4;fill-opacity:1;stroke:#ffffff;stroke-width:8;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              sodipodi:nodetypes="cc"
              inkscape:connector-curvature="0"

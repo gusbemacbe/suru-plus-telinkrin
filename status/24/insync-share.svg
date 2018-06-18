@@ -11,7 +11,7 @@
    width="24"
    version="1.1"
    id="svg2"
-   sodipodi:docname="insync-share.svg"
+   sodipodi:docname="4.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata8">
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,7 +39,7 @@
      id="namedview6"
      showgrid="false"
      inkscape:zoom="23.855435"
-     inkscape:cx="-2.8603452"
+     inkscape:cx="3.783843"
      inkscape:cy="11.731307"
      inkscape:window-x="0"
      inkscape:window-y="34"
@@ -50,7 +50,7 @@
     <style
        type="text/css"
        id="current-color-scheme">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#67A2B4; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
   </defs>
   <g
@@ -123,7 +123,7 @@
   <path
      d="M 6.5000001,11.5 C 3.1894057,11.5 0.5,14.189406 0.5,17.5 c 0,3.310595 2.6894057,6 6.0000001,6 3.3105944,0 6.0000049,-2.689405 5.9999999,-6 0,-3.310594 -2.6894055,-6 -5.9999999,-6 z"
      id="path2555-7-8-5-0"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#67a2b4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.74999988;marker:none;enable-background:accumulate"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#67A2B4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.74999988;marker:none;enable-background:accumulate"
      inkscape:connector-curvature="0" />
   <g
      style="display:inline"

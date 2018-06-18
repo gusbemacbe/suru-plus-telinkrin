@@ -15,7 +15,7 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="logout_highlight.svg">
   <defs
      id="defs1482">
@@ -564,16 +564,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.2421875"
-     inkscape:cx="-18.819713"
-     inkscape:cy="128"
+     inkscape:cx="57.671853"
+     inkscape:cy="139.41205"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -656,7 +656,7 @@
        cx="-262.63489"
        transform="matrix(0,-1,-1,0,0,0)"
        id="circle4371"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#003488;fill-opacity:1;stroke:none;stroke-width:0.53941554;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#427686;fill-opacity:1;stroke:none;stroke-width:0.53941554;marker:none;enable-background:accumulate" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.66887528;marker:none;enable-background:accumulate"
        d="m 33.866664,238.90062 a 23.734283,23.734283 0 0 0 -23.734282,23.73428 23.734283,23.734283 0 0 0 0.01106,0.22388 23.734283,23.734283 0 0 1 23.723225,-23.41875 23.734283,23.734283 0 0 1 23.723224,23.51041 23.734283,23.734283 0 0 0 0.01106,-0.31554 23.734283,23.734283 0 0 0 -23.734284,-23.73428 z"

@@ -15,8 +15,8 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="kde-frameworks.svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="desktop-enviroment-kde.svg">
   <defs
      id="defs1482">
     <clipPath
@@ -123,13 +123,13 @@
     <linearGradient
        id="linearGradient3650-7-9">
       <stop
-         style="stop-color:#5884f4;stop-opacity:1"
+         style="stop-color:#88b6c4;stop-opacity:1"
          offset="0"
          id="stop4366" />
       <stop
          id="stop4368"
          offset="1"
-         style="stop-color:#80a3fa;stop-opacity:1" />
+         style="stop-color:#67a2b4;stop-opacity:1" />
     </linearGradient>
     <clipPath
        clipPathUnits="userSpaceOnUse"
@@ -725,16 +725,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.4628043"
-     inkscape:cx="70.82091"
+     inkscape:cx="25.193151"
      inkscape:cy="127.84507"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -748,7 +748,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

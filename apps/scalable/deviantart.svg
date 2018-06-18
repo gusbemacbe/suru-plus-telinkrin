@@ -14,7 +14,7 @@
    sodipodi:docname="deviantart.svg"
    width="256"
    height="256"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      id="namedview18"
      showgrid="false"
      inkscape:zoom="3.2421875"
-     inkscape:cx="38.614583"
+     inkscape:cx="-10.117947"
      inkscape:cy="128"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg16" />
   <defs
@@ -365,7 +365,7 @@
      style="display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4569);enable-background:new"
      transform="matrix(1.019368,0,0,1.019368,-7.2181772e-8,8.3098661)" />
   <path
-     style="display:inline;opacity:1;fill:#49b749;fill-opacity:1;stroke:none;stroke-width:2.03873587;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+     style="display:inline;opacity:1;fill:#4f8ea1;fill-opacity:1;stroke:none;stroke-width:2.03873587;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
      d="m 165.68476,11.946967 c 74.05571,0 84.6394,10.557203 84.6394,84.543835 v 59.250778 c 0,73.98633 -10.58369,84.54383 -84.6394,84.54383 H 90.315238 c -74.055712,0 -84.6394026,-10.5575 -84.6394026,-84.54383 V 96.490802 c 0,-73.986632 10.5836906,-84.543835 84.6394026,-84.543835 z"
      id="rect877"
      inkscape:connector-curvature="0"

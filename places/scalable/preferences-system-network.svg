@@ -15,8 +15,8 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="mate-network-properties1.svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="network-workgroup.svg">
   <defs
      id="defs1482">
     <clipPath
@@ -693,28 +693,6 @@
          d="M 329.9375,16 C 475.2348,16 496,36.71323 496,181.875 v 116.25 C 496,443.28618 475.2348,464 329.9375,464 H 182.0625 C 36.7652,464 16,443.28618 16,298.125 V 181.875 C 16,36.71323 36.7652,16 182.0625,16 Z"
          style="opacity:1;fill:#438ae9;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </clipPath>
-    <linearGradient
-       gradientTransform="matrix(0.26458333,0,0,0.26458333,-6.993468,221.97263)"
-       inkscape:collect="always"
-       xlink:href="#linearGradient4195"
-       id="linearGradient1048"
-       x1="24"
-       y1="28"
-       x2="280"
-       y2="284"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4195">
-      <stop
-         style="stop-color:#8c59d9;stop-opacity:1"
-         offset="0"
-         id="stop4197" />
-      <stop
-         style="stop-color:#a7a7f1;stop-opacity:1"
-         offset="1"
-         id="stop4199" />
-    </linearGradient>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -750,16 +728,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.2421875"
-     inkscape:cx="105.0832"
+     inkscape:cx="56.35067"
      inkscape:cy="140.33735"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -773,7 +751,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -795,7 +773,7 @@
        style="display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4569);enable-background:new"
        transform="matrix(0.26458333,0,0,0.26458333,-1.8735229e-8,232.67026)" />
     <path
-       style="display:inline;opacity:1;fill:url(#linearGradient1048);fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+       style="display:inline;opacity:1;fill:#67a2b4;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
        d="m 43.004513,233.61429 c 19.221622,0 21.968685,2.74019 21.968685,21.94388 v 15.37891 c 0,19.20362 -2.747063,21.94388 -21.968685,21.94388 h -19.56263 c -19.2216217,0 -21.9686846,-2.74026 -21.9686846,-21.94388 v -15.37891 c 0,-19.20369 2.7470629,-21.94388 21.9686846,-21.94388 z"
        id="rect877"
        inkscape:connector-curvature="0"

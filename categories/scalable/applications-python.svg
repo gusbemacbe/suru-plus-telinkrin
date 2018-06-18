@@ -15,8 +15,8 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.2 (unknown)"
-   sodipodi:docname="python3.6.svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="applications-python.svg">
   <defs
      id="defs1482">
     <clipPath
@@ -350,16 +350,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.2421875"
-     inkscape:cx="32.585646"
+     inkscape:cx="-16.146884"
      inkscape:cy="128"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g972"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -425,7 +425,7 @@
          inkscape:connector-curvature="0"
          id="rect942"
          d="m 152,104 c -13.296,0 -24,5.352 -24,12 v 12 4 h 24 v 4 h -24 -4 -4 -12 c -6.648,0 -12,10.704 -12,24 v 4 c 0,13.296 5.352,24 12,24 h 12 4 v -12 c 0,0 0,-16 16,-16 h 32 c 0,0 8,0 8,-8 v -16 -8 -12 c 0,-6.648 -10.704,-12 -24,-12 z m -12,8 c 2.20914,0 4,1.79086 4,4 0,2.20914 -1.79086,4 -4,4 -2.20914,0 -4,-1.79086 -4,-4 0,-2.20914 1.79086,-4 4,-4 z"
-         style="opacity:1;fill:#347ab4;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:#67a2b4;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          style="opacity:1;fill:#ffd43b;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 156,220 c 13.296,0 24,-5.352 24,-12 v -12 -4 h -24 v -4 h 24 4 4 12 c 6.648,0 12,-10.704 12,-24 v -4 c 0,-13.296 -5.352,-24 -12,-24 h -12 -4 v 16 c 0,12 -12,12 -12,12 h -32 c -12,0 -12,12 -12,12 v 12 8 12 c 0,6.648 10.704,12 24,12 z m 12,-12 c -2.20914,0 -4,-1.79086 -4,-4 0,-2.20914 1.79086,-4 4,-4 2.20914,0 4,1.79086 4,4 0,2.20914 -1.79086,4 -4,4 z"

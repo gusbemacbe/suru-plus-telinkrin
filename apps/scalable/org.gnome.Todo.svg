@@ -15,8 +15,8 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.2 (unknown)"
-   sodipodi:docname="org.gnome.Todo.svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="korg-todo.svg">
   <defs
      id="defs1482">
     <linearGradient
@@ -453,28 +453,6 @@
          d="M 361.9375,-212 C 507.2348,-212 528,-191.28677 528,-46.125 V 70.125 C 528,215.28618 507.2348,236 361.9375,236 H 214.0625 C 68.7652,236 48,215.28618 48,70.125 V -46.125 C 48,-191.28677 68.7652,-212 214.0625,-212 Z"
          style="display:inline;opacity:1;fill:#8c59d9;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new" />
     </clipPath>
-    <linearGradient
-       gradientTransform="matrix(0.26970781,0,0,0.26970781,-7.1289192,220.5605)"
-       inkscape:collect="always"
-       xlink:href="#linearGradient4338-7"
-       id="linearGradient933"
-       x1="160"
-       y1="28"
-       x2="160"
-       y2="284"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4338-7">
-      <stop
-         id="stop4342-6"
-         offset="0"
-         style="stop-color:#5884f4;stop-opacity:1" />
-      <stop
-         id="stop4340-2"
-         offset="1"
-         style="stop-color:#80a3fa;stop-opacity:1" />
-    </linearGradient>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -510,16 +488,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.4628041"
-     inkscape:cx="128"
+     inkscape:cx="82.372238"
      inkscape:cy="127.84507"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -557,7 +535,7 @@
        sodipodi:nodetypes="sssssssss"
        transform="matrix(0.26970779,0,0,0.26970779,-1.9098095e-8,231.46531)" />
     <path
-       style="display:inline;opacity:1;fill:url(#linearGradient933);fill-opacity:1;stroke:none;stroke-width:0.53941554;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+       style="display:inline;opacity:1;fill:#67a2b4;fill-opacity:0.9470588;stroke:none;stroke-width:0.53941554;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
        d="m 43.837427,232.42763 c 19.593907,0 22.394175,2.79326 22.394175,22.36889 v 15.67677 c 0,19.57555 -2.800268,22.36889 -22.394175,22.36889 h -19.94152 c -19.5939074,0 -22.3941756,-2.79334 -22.3941756,-22.36889 v -15.67677 c 0,-19.57563 2.8002682,-22.36889 22.3941756,-22.36889 z"
        id="rect877"
        inkscape:connector-curvature="0"

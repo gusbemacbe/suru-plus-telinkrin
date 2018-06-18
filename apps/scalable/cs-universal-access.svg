@@ -15,7 +15,7 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="cs-universal-access.svg">
   <defs
      id="defs1482">
@@ -535,11 +535,11 @@
        inkscape:collect="always"
        id="linearGradient916">
       <stop
-         style="stop-color:#67a2b4;stop-opacity:1"
+         style="stop-color:#5d9caf;stop-opacity:1"
          offset="0"
          id="stop912" />
       <stop
-         style="stop-color:#90bbc8;stop-opacity:1"
+         style="stop-color:#88b6c4;stop-opacity:1"
          offset="1"
          id="stop914" />
     </linearGradient>
@@ -564,15 +564,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.2925728"
-     inkscape:cx="37.1523"
-     inkscape:cy="143.46708"
+     inkscape:zoom="3.2421875"
+     inkscape:cx="-61.494766"
+     inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="998"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">

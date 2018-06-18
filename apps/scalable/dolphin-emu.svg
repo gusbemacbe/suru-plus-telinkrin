@@ -15,7 +15,7 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="dolphin-emu.svg">
   <defs
      id="defs1482">
@@ -107,28 +107,6 @@
          d="M 361.9375,-212 C 507.2348,-212 528,-191.28677 528,-46.125 V 70.125 C 528,215.28618 507.2348,236 361.9375,236 H 214.0625 C 68.7652,236 48,215.28618 48,70.125 V -46.125 C 48,-191.28677 68.7652,-212 214.0625,-212 Z"
          style="display:inline;opacity:1;fill:#8c59d9;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new" />
     </clipPath>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient876"
-       id="linearGradient878"
-       x1="32"
-       y1="156"
-       x2="272"
-       y2="156"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.13485389,0.23357379,-0.23357379,0.13485389,49.806383,206.09448)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient876">
-      <stop
-         style="stop-color:#457c8d;stop-opacity:1"
-         offset="0"
-         id="stop872" />
-      <stop
-         style="stop-color:#67a2b4;stop-opacity:1"
-         offset="1"
-         id="stop874" />
-    </linearGradient>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -177,14 +155,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.2421875"
-     inkscape:cx="50.41834"
+     inkscape:cx="46.871352"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="998"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -224,7 +202,7 @@
        style="display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4569);enable-background:new"
        transform="matrix(0.26970778,0,0,0.26970778,-7.1289177,220.56049)" />
     <path
-       style="display:inline;opacity:1;fill:url(#linearGradient878);fill-opacity:1;stroke:none;stroke-width:0.5394156;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+       style="display:inline;opacity:1;fill:#67a2b4;fill-opacity:1;stroke:none;stroke-width:0.5394156;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
        d="m 43.837418,232.42763 c 19.593907,0 22.394178,2.79326 22.394178,22.36889 v 15.67677 c -3e-6,19.57555 -2.800271,22.36889 -22.394178,22.36889 h -19.94152 c -19.5939037,0 -22.3941717,-2.79334 -22.3941717,-22.36889 l -1e-6,-15.67677 c 1e-6,-19.57563 2.8002695,-22.36889 22.3941757,-22.36889 z"
        id="rect877"
        inkscape:connector-curvature="0"

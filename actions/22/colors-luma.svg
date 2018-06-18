@@ -10,7 +10,7 @@
         color:#eff0f1;
       }
       .ColorScheme-Highlight {
-        color:#67A2B4;
+        color:#3daee9;
       }
       .ColorScheme-ViewText {
         color:#31363b;
@@ -22,7 +22,7 @@
         color:#93cee9;
       }
       .ColorScheme-ViewFocus{
-        color:#67A2B4;
+        color:#3daee9;
       }
       .ColorScheme-ButtonText {
         color:#31363b;
@@ -34,11 +34,11 @@
         color:#93cee9;
       }
       .ColorScheme-ButtonFocus{
-        color:#67A2B4;
+        color:#3daee9;
       }
       </style>
     <linearGradient id="linearGradient4012" inkscape:collect="always">
-      <stop id="stop4014" offset="0" style="stop-color:#67A2B4;stop-opacity:1"/>
+      <stop id="stop4014" offset="0" style="stop-color:#1d99f3;stop-opacity:1"/>
       <stop style="stop-color:#48acf5;stop-opacity:0.76119405" offset="0.41666669" id="stop4016"/>
       <stop style="stop-color:#73c0f7;stop-opacity:0" offset="0.66666329" id="stop4018"/>
       <stop id="stop4020" offset="1" style="stop-color:#cae7fc;stop-opacity:0"/>

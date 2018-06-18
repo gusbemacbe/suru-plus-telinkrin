@@ -15,7 +15,7 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="hp-toolbox.svg">
   <defs
      id="defs1482">
@@ -361,17 +361,6 @@
          style="stop-color:#0071BC"
          offset="1" />
     </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#a-6"
-       id="radialGradient2195"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.4039791,-0.66748142,0.37889165,1.3646038,-137.76082,-68.447972)"
-       cx="31.271969"
-       cy="247.71095"
-       fx="31.271969"
-       fy="247.71095"
-       r="32.364937" />
     <linearGradient
        xlink:href="#a"
        id="d"
@@ -497,17 +486,6 @@
          stop-color="#fff"
          id="stop11-9" />
     </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#d-5"
-       id="radialGradient963"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.4039791,-0.66748142,0.37889165,1.3646038,-137.76082,-68.447972)"
-       cx="31.271969"
-       cy="247.71095"
-       fx="31.271969"
-       fy="247.71095"
-       r="32.364937" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -516,17 +494,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.4628041"
-     inkscape:cx="208.13262"
+     inkscape:zoom="2.4485723"
+     inkscape:cx="162.50486"
      inkscape:cy="127.84507"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -540,7 +518,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -570,7 +548,7 @@
        style="display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4569);enable-background:new"
        transform="matrix(0.26970779,0,0,0.26970779,-1.9098094e-8,231.46531)" />
     <path
-       style="display:inline;opacity:1;fill:url(#radialGradient2195);fill-opacity:1.0;stroke:none;stroke-width:0.53941554;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+       style="display:inline;opacity:1;fill:#67a2b4;fill-opacity:1;stroke:none;stroke-width:0.53941554;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
        d="m 43.837427,232.42763 c 19.593907,0 22.394175,2.79326 22.394175,22.36889 v 15.67677 c 0,19.57555 -2.800268,22.36889 -22.394175,22.36889 h -19.94152 c -19.5939074,0 -22.3941756,-2.79334 -22.3941756,-22.36889 v -15.67677 c 0,-19.57563 2.8002682,-22.36889 22.3941756,-22.36889 z"
        id="rect877"
        inkscape:connector-curvature="0"
@@ -593,12 +571,6 @@
        d="m 23.895907,292.84218 c -19.5939074,0 -22.3941756,-2.77743 -22.3941756,-22.24215 v -7.79398 H 66.231602 v 7.79398 c 0,19.46472 -2.800268,22.24215 -22.394175,22.24215 z"
        id="path1107"
        inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="sssssssss"
-       inkscape:connector-curvature="0"
-       id="path961"
-       d="m 43.837427,232.42763 c 19.593907,0 22.394175,2.79326 22.394175,22.36889 v 15.67677 c 0,19.57555 -2.800268,22.36889 -22.394175,22.36889 h -19.94152 c -19.5939074,0 -22.3941756,-2.79334 -22.3941756,-22.36889 v -15.67677 c 0,-19.57563 2.8002682,-22.36889 22.3941756,-22.36889 z"
-       style="display:inline;opacity:1;fill:url(#radialGradient963);fill-opacity:1;stroke:none;stroke-width:0.53941554;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new" />
     <g
        transform="matrix(0.3683471,0,0,0.3683471,10.026762,238.96618)"
        style="color:#000000"

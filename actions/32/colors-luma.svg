@@ -8,7 +8,7 @@
         color:#4d4d4d;
       }
       .ColorScheme-Highlight {
-        color:#67A2B4;
+        color:#3daee9;
       }
       </style>
   </defs>
@@ -22,7 +22,7 @@
        gradientUnits="userSpaceOnUse"
        x2="18">
       <stop
-         stop-color="#67A2B4"
+         stop-color="#1d99f3"
          id="stop33" />
       <stop
          offset=".417"

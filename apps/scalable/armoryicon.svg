@@ -15,7 +15,7 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="armoryicon.svg">
   <defs
      id="defs1482">
@@ -349,17 +349,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.4586321"
-     inkscape:cx="170.14822"
+     inkscape:zoom="2.4456222"
+     inkscape:cx="124.46542"
      inkscape:cy="127.84507"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g940"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -373,7 +373,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -425,23 +425,23 @@
       <g
          id="g940">
         <polygon
-           style="fill:#4374b9"
-           points="271.064,216.906 240.945,216.906 196.767,172.729 185.358,184.138 255.56,254.341 256.449,254.341 326.642,184.147 315.233,172.738 "
+           style="fill:#67a2b4;fill-opacity:1"
+           points="185.358,184.138 255.56,254.341 256.449,254.341 326.642,184.147 315.233,172.738 271.064,216.906 240.945,216.906 196.767,172.729 "
            id="polygon936" />
         <polygon
-           style="fill:#4374b9"
-           points="271.064,295.094 240.945,295.094 196.767,339.271 185.358,327.862 255.56,257.659 256.449,257.659 326.642,327.853 315.233,339.262 "
+           style="fill:#67a2b4;fill-opacity:1"
+           points="185.358,327.862 255.56,257.659 256.449,257.659 326.642,327.853 315.233,339.262 271.064,295.094 240.945,295.094 196.767,339.271 "
            id="polygon938" />
       </g>
       <g
          id="g946">
         <polygon
            style="fill:#f7901e"
-           points="151.617,271.792 151.617,241.673 195.794,197.495 184.385,186.086 114.182,256.288 114.182,257.177 184.376,327.37 195.785,315.961 "
+           points="184.385,186.086 114.182,256.288 114.182,257.177 184.376,327.37 195.785,315.961 151.617,271.792 151.617,241.673 195.794,197.495 "
            id="polygon942" />
         <polygon
-           style="fill:#3d6cb4"
-           points="360.383,241.664 360.383,271.783 316.206,315.961 327.615,327.37 397.818,257.168 397.818,256.279 327.624,186.086 316.215,197.495 "
+           style="fill:#67a2b4;fill-opacity:1"
+           points="327.615,327.37 397.818,257.168 397.818,256.279 327.624,186.086 316.215,197.495 360.383,241.664 360.383,271.783 316.206,315.961 "
            id="polygon944" />
       </g>
     </g>

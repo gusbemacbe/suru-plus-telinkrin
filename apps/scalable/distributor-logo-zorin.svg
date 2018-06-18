@@ -15,8 +15,8 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="3.svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="distributor-logo-zorin.svg">
   <defs
      id="defs1482">
     <clipPath
@@ -891,16 +891,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.2421875"
-     inkscape:cx="21.97048"
+     inkscape:cx="-26.76205"
      inkscape:cy="140.33735"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -914,7 +914,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -971,7 +971,7 @@
        transform="matrix(0.15496533,0,0,0.15496533,-22.724122,237.71902)"
        id="g1417" />
     <path
-       style="fill:#00aaff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.09099662px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#67a2b4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.09099662px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 33.524006,243.9351 -10.21437,0.006 -2.95739,5.18396 h 27.045902 l -2.923268,-5.15553 z m -16.83153,11.62197 -3.992477,7.0494 3.719487,6.60863 h 1.43604 l 20.297935,-13.65803 z m 32.99196,0 -20.300776,13.65803 h 21.941561 l 3.708111,-6.55176 -3.998163,-7.10627 z m -29.630773,20.09035 3.207631,5.65318 10.948031,0.0341 10.217213,-0.006 3.241755,-5.68159 z"
        id="path2985"
        inkscape:connector-curvature="0" />

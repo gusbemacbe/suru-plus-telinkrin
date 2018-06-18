@@ -14,7 +14,7 @@
    sodipodi:docname="blueradio.svg"
    width="256"
    height="256"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,17 +36,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      id="namedview18"
      showgrid="false"
-     inkscape:zoom="3.4586321"
-     inkscape:cx="18.852803"
+     inkscape:zoom="2.4456222"
+     inkscape:cx="-26.829997"
      inkscape:cy="127.84507"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg16" />
+     inkscape:current-layer="g51" />
   <defs
      id="defs3">
     <linearGradient
@@ -595,7 +595,7 @@
            id="stop917" />
       </linearGradient>
       <path
-         style="fill:url(#SVGID_1_)"
+         style="fill:#5395a9;fill-opacity:1"
          d="m 247.92,354.325 v -82.736 l -27.15,26.616 -9.936,-10.136 34.623,-33.941 -34.688,-34.916 10.069,-10.003 27.084,27.261 v -78.795 l 53.31,61.652 -35.635,34.934 35.474,35.706 z m 14.195,-83.429 v 43.952 l 19.821,-24.001 z m 0,-75.106 v 42.008 l 19.66,-19.273 z"
          id="path7"
          inkscape:connector-curvature="0" />
@@ -618,7 +618,7 @@
              id="stop924" />
         </linearGradient>
         <path
-           style="fill:url(#SVGID_2_)"
+           style="fill:#5395a9;fill-opacity:1"
            d="m 256.419,137.688 c 24.33,0 47.02,7.098 66.163,19.29 l 10.801,-16.063 c -22.227,-14.268 -48.647,-22.549 -76.964,-22.549 -28.566,0 -55.197,8.433 -77.545,22.932 l 10.796,16.056 c 19.266,-12.422 42.171,-19.666 66.749,-19.666 z"
            id="path14"
            inkscape:connector-curvature="0" />
@@ -639,7 +639,7 @@
              id="stop931" />
         </linearGradient>
         <path
-           style="fill:url(#SVGID_3_)"
+           style="fill:#5395a9;fill-opacity:1"
            d="M 338.231,378.294 327.436,362.24 c -20.108,14.18 -44.597,22.544 -71.017,22.544 -26.669,0 -51.371,-8.522 -71.584,-22.947 l -10.799,16.061 c 23.297,16.5 51.727,26.208 82.383,26.208 30.408,0 58.622,-9.556 81.812,-25.812 z"
            id="path21"
            inkscape:connector-curvature="0" />
@@ -660,7 +660,7 @@
              id="stop938" />
         </linearGradient>
         <path
-           style="fill:url(#SVGID_4_)"
+           style="fill:#5395a9;fill-opacity:1"
            d="m 153.289,103.247 10.778,16.029 C 190.5,101.738 222.18,91.505 256.21,91.505 c 33.905,0 65.478,10.159 91.853,27.58 l 10.778,-16.029 C 329.385,83.558 294.103,72.183 256.21,72.183 c -38.018,0 -73.407,11.448 -102.921,31.064 z"
            id="path28"
            inkscape:connector-curvature="0" />
@@ -681,7 +681,7 @@
              id="stop945" />
         </linearGradient>
         <path
-           style="fill:url(#SVGID_5_)"
+           style="fill:#5395a9;fill-opacity:1"
            d="m 256.209,425.731 c -35.075,0 -67.654,-10.871 -94.563,-29.407 l -10.778,16.029 c 29.991,20.615 66.279,32.7 105.342,32.7 38.938,0 75.121,-12.007 105.056,-32.502 l -10.778,-16.03 c -26.855,18.417 -59.328,29.21 -94.279,29.21 z"
            id="path35"
            inkscape:connector-curvature="0" />
@@ -702,7 +702,7 @@
              id="stop952" />
         </linearGradient>
         <path
-           style="fill:url(#SVGID_6_)"
+           style="fill:#5395a9;fill-opacity:1"
            d="m 256,45.322 c 43.481,0 83.926,13.243 117.519,35.903 L 384.297,65.196 C 347.624,40.457 303.469,26 256,26 208.531,26 164.376,40.457 127.703,65.196 l 10.778,16.029 C 172.074,58.565 212.519,45.322 256,45.322 Z"
            id="path42"
            inkscape:connector-curvature="0" />
@@ -723,7 +723,7 @@
              id="stop959" />
         </linearGradient>
         <path
-           style="fill:url(#SVGID_7_)"
+           style="fill:#5395a9;fill-opacity:1"
            d="m 384.297,446.804 -10.778,-16.029 c -33.592,22.661 -74.038,35.903 -117.519,35.903 -43.481,0 -83.926,-13.243 -117.519,-35.903 l -10.778,16.029 C 164.376,471.543 208.531,486 256,486 c 47.469,0 91.624,-14.457 128.297,-39.196 z"
            id="path49"
            inkscape:connector-curvature="0" />

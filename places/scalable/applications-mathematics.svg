@@ -15,8 +15,8 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="applications-mathematics.svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="accessories-calculator.svg">
   <defs
      id="defs1482">
     <clipPath
@@ -224,28 +224,6 @@
          stdDeviation="0.86"
          id="feGaussianBlur969" />
     </filter>
-    <linearGradient
-       gradientTransform="matrix(0.26458333,0,0,0.26458333,-6.9934682,221.97263)"
-       inkscape:collect="always"
-       xlink:href="#linearGradient4273-8"
-       id="linearGradient943"
-       x1="216"
-       y1="28"
-       x2="216"
-       y2="284"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4273-8">
-      <stop
-         style="stop-color:#f9af18;stop-opacity:1"
-         offset="0"
-         id="stop4275-0" />
-      <stop
-         style="stop-color:#fecf3b;stop-opacity:1"
-         offset="1"
-         id="stop4277-4" />
-    </linearGradient>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -280,17 +258,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.2421875"
-     inkscape:cx="-8.1292795"
+     inkscape:zoom="1.6210938"
+     inkscape:cx="4.2080699"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -304,7 +282,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -334,7 +312,7 @@
        id="rect877" />
     <path
        inkscape:connector-curvature="0"
-       style="display:inline;opacity:1;fill:url(#linearGradient943);fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+       style="display:inline;opacity:1;fill:#67a2b4;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
        d="m 33.223197,233.61429 v 59.26667 h 9.781316 c 19.221622,0 21.968685,-2.74026 21.968685,-21.94388 v -15.37891 c 0,-19.20369 -2.747063,-21.94388 -21.968685,-21.94388 z"
        id="path932" />
     <path

@@ -15,8 +15,8 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="gparted.svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="disk-usage-app.svg">
   <defs
      id="defs1482">
     <clipPath
@@ -676,17 +676,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.2421875"
-     inkscape:cx="-73.215248"
+     inkscape:zoom="1.6210938"
+     inkscape:cx="-121.94778"
      inkscape:cy="128"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1156-0-6"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -700,7 +700,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -774,7 +774,7 @@
            id="path1148-9-1"
            style="opacity:1;fill:#f76363;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.00000001, 2.00000001;stroke-dashoffset:1;stroke-opacity:1" />
         <path
-           style="opacity:1;fill:#5884f4;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.00000001, 2.00000001;stroke-dashoffset:1;stroke-opacity:1"
+           style="opacity:1;fill:#67a2b4;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.00000001, 2.00000000999999994;stroke-dashoffset:1;stroke-opacity:1"
            id="path1150-3-8"
            sodipodi:type="arc"
            sodipodi:cx="152"

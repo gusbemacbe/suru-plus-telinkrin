@@ -15,8 +15,8 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.2 (unknown)"
-   sodipodi:docname="6.svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="accessories-camera.svg">
   <defs
      id="defs1482">
     <clipPath
@@ -331,17 +331,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.2421875"
-     inkscape:cx="-12.762236"
-     inkscape:cy="128"
+     inkscape:zoom="2.2925728"
+     inkscape:cx="75.207965"
+     inkscape:cy="128.77984"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -355,7 +355,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -447,7 +447,7 @@
          d="M -248.0007,75.999297 A 80.000135,80.000135 0 0 0 -328,155.99999 80.000135,80.000135 0 0 0 -248.0007,236.00068 80.000135,80.000135 0 0 0 -168,155.99999 80.000135,80.000135 0 0 0 -248.0007,75.999297 Z m 0,28.622583 a 51.37813,51.37813 0 0 1 51.37811,51.37811 51.37813,51.37813 0 0 1 -51.37811,51.37811 51.37813,51.37813 0 0 1 -51.37811,-51.37811 51.37813,51.37813 0 0 1 51.37811,-51.37811 z"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.1;fill:url(#radialGradient4404);fill-opacity:1;stroke:none;stroke-width:1.99999988;marker:none;enable-background:accumulate" />
       <circle
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#a7a7f1;fill-opacity:1;stroke:none;stroke-width:1.99999976;marker:none;enable-background:accumulate"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#bbd5dd;fill-opacity:1;stroke:none;stroke-width:1.99999976;marker:none;enable-background:accumulate"
          id="circle4269"
          transform="matrix(0,-1,-1,0,0,0)"
          cx="-156"
@@ -459,9 +459,9 @@
          cx="-155.99998"
          transform="matrix(0,-1,-1,0,0,0)"
          id="circle4201"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#8f76e4;fill-opacity:1;stroke:none;stroke-width:1.99999976;marker:none;enable-background:accumulate" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#91bcc9;fill-opacity:1;stroke:none;stroke-width:1.99999976;marker:none;enable-background:accumulate" />
       <circle
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#8c59d9;fill-opacity:1;stroke:none;stroke-width:1.99999976;marker:none;enable-background:accumulate"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#76abbc;fill-opacity:1;stroke:none;stroke-width:1.99999976;marker:none;enable-background:accumulate"
          id="circle4409"
          transform="matrix(0,-1,-1,0,0,0)"
          cx="-156"
@@ -473,7 +473,7 @@
          cx="-119.98077"
          transform="matrix(-0.1391731,-0.99026807,-0.99026807,0.1391731,0,0)"
          id="circle4411"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#7839b7;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#4f8ea1;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
       <circle
          transform="rotate(-8)"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"

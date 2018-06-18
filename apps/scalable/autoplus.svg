@@ -15,10 +15,21 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="autoplus.svg">
   <defs
      id="defs1482">
+    <linearGradient
+       id="linearGradient1077">
+      <stop
+         offset="0"
+         style="stop-color:#4f8ea1;stop-opacity:1"
+         id="stop1073" />
+      <stop
+         offset="1"
+         style="stop-color:#8db9c7;stop-opacity:1"
+         id="stop1075" />
+    </linearGradient>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath1025">
@@ -643,7 +654,7 @@
     </clipPath>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3925"
+       xlink:href="#linearGradient1077"
        id="linearGradient947"
        x1="208"
        y1="284"
@@ -1353,16 +1364,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.2382812"
-     inkscape:cx="73.695814"
+     inkscape:cx="24.904498"
      inkscape:cy="144.07858"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -1376,7 +1387,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1454,7 +1465,7 @@
          id="g11031"
          transform="translate(-3.0095936,7.4351906)">
         <path
-           style="display:inline;fill:#5484c6;fill-opacity:1;stroke-width:2.34375"
+           style="display:inline;fill:#8ab8c6;fill-opacity:1;stroke-width:2.34375"
            id="f-script-path"
            inkscape:connector-curvature="0"
            d="m 267.69773,56.678761 c -19.86274,0 -35.96294,16.101267 -35.96294,35.963356 0,0.007 0,0.01641 0,0.02484 v 19.034223 h -18.97543 c -0.002,0 -0.002,0 -0.005,0 -19.86214,0 -35.96234,16.02291 -35.96234,35.88378 0,19.86391 16.10081,35.96456 35.96234,35.96456 19.85972,0 35.96053,-16.10065 35.96053,-35.96456 0,-0.007 0,-0.0141 0,-0.0248 v -19.11323 h 18.97481 c 0.005,0 0.007,0 0.007,0 19.8597,0 35.96051,-15.94397 35.96051,-35.804813 0,-19.862086 -16.10081,-35.963356 -35.96051,-35.963356 z m -35.96294,90.940279 c -0.0141,10.46552 -8.50896,18.9498 -18.98028,18.9498 -10.48223,0 -19.0586,-8.49825 -19.0586,-18.98079 0,-10.48617 8.57637,-19.14173 19.0586,-19.14173 0.009,0 0.0164,0 0.0248,0 h 16.26419 c 0.005,0 0.009,0 0.0117,0 1.48073,0 2.68146,1.19834 2.68146,2.67666 0,0.002 -0.002,0.002 -0.002,0.007 v 16.48938 h -6.1e-4 z m 35.96111,-35.91781 c -0.007,0 -0.0117,0 -0.0188,0 h -16.27511 c -0.005,0 -0.007,0 -0.009,0 -1.48071,0 -2.67841,-1.19772 -2.67841,-2.67967 v -6.1e-4 -16.409818 c 0.0188,-10.471593 8.50896,-18.952851 18.98088,-18.952851 10.48224,0 19.06043,8.498859 19.06043,18.983226 0,10.483123 -8.57819,19.059723 -19.06043,19.059723 z" />

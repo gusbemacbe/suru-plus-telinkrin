@@ -15,8 +15,8 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="echonest.svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="calligragemini.svg">
   <defs
      id="defs1482">
     <clipPath
@@ -125,16 +125,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.4586323"
-     inkscape:cx="128"
+     inkscape:cx="82.317202"
      inkscape:cy="127.84507"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g8483"
      showgrid="true"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -148,7 +148,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -219,7 +219,7 @@
          r="10.990391"
          cx="35.166935"
          cy="249.61143"
-         style="fill:#31afe1;stroke-width:0.9158659" />
+         style="fill:#67a2b4;stroke-width:0.9158659;fill-opacity:1" />
       <circle
          id="circle14"
          r="10.990391"

@@ -15,8 +15,8 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="Windows_logo_–_2012_(dark_blue).svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="distributor-logo-windows.svg">
   <defs
      id="defs1482">
     <clipPath
@@ -801,16 +801,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.2421875"
-     inkscape:cx="128"
+     inkscape:cx="79.26747"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -824,7 +824,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -887,7 +887,7 @@
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#0078d6;stroke-width:0.48477617"
+       style="fill:#67a2b4;stroke-width:0.48477617;fill-opacity:1"
        d="m 15.867376,247.16554 17.300211,-2.35199 0.0075,16.6879 -17.292051,0.0976 z m 17.291891,16.2527 0.01344,16.70229 -17.291891,-2.38398 -9.6e-4,-14.43191 z m 2.097587,-18.91828 22.938575,-3.34398 v 20.13107 l -22.938575,0.16 z m 22.943855,19.07668 -0.0053,20.03987 -22.938575,-3.23198 -0.03216,-16.84149 z"
        id="path6104" />
   </g>

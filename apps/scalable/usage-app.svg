@@ -15,8 +15,8 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="usage.svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="gnome-usage.svg">
   <defs
      id="defs1482">
     <clipPath
@@ -615,11 +615,11 @@
       <stop
          id="stop4342-6"
          offset="0"
-         style="stop-color:#2daaaa;stop-opacity:1" />
+         style="stop-color:#478091;stop-opacity:1" />
       <stop
          id="stop4340-2"
          offset="1"
-         style="stop-color:#31c6b7;stop-opacity:1" />
+         style="stop-color:#5292a6;stop-opacity:1" />
     </linearGradient>
     <filter
        inkscape:collect="always"
@@ -655,17 +655,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.2421875"
-     inkscape:cx="-133.66826"
+     inkscape:zoom="1.1462864"
+     inkscape:cx="-182.40079"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -679,7 +679,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

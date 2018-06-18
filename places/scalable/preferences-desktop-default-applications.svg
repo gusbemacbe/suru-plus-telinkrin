@@ -15,8 +15,8 @@
    viewBox="0 0 67.733332 67.733335"
    version="1.1"
    id="svg1488"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="session.svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="preferences-desktop-default-applications.svg">
   <defs
      id="defs1482">
     <clipPath
@@ -546,16 +546,6 @@
          d="M 361.9375,-212 C 507.2348,-212 528,-191.28677 528,-46.125 V 70.125 C 528,215.28618 507.2348,236 361.9375,236 H 214.0625 C 68.7652,236 48,215.28618 48,70.125 V -46.125 C 48,-191.28677 68.7652,-212 214.0625,-212 Z"
          style="display:inline;opacity:1;fill:#8c59d9;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new" />
     </clipPath>
-    <linearGradient
-       gradientTransform="matrix(0.26458333,0,0,0.26458333,-6.993468,221.97263)"
-       inkscape:collect="always"
-       xlink:href="#linearGradient3650-7-9"
-       id="linearGradient933"
-       x1="160"
-       y1="28"
-       x2="160"
-       y2="284"
-       gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -590,17 +580,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.2421875"
-     inkscape:cx="-133.66826"
+     inkscape:zoom="1.1462864"
+     inkscape:cx="-182.40079"
      inkscape:cy="128"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-width="1600"
+     inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -614,7 +604,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -638,7 +628,7 @@
        sodipodi:nodetypes="sssssssss"
        transform="matrix(0.26458333,0,0,0.26458333,-1.8735229e-8,232.67026)" />
     <path
-       style="display:inline;opacity:1;fill:url(#linearGradient933);fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+       style="display:inline;opacity:1;fill:#67a2b4;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
        d="m 43.004513,233.61429 c 19.221622,0 21.968685,2.74019 21.968685,21.94388 v 15.37891 c 0,19.20362 -2.747063,21.94388 -21.968685,21.94388 h -19.56263 c -19.221622,0 -21.968685,-2.74026 -21.968685,-21.94388 v -15.37891 c 0,-19.20369 2.747063,-21.94388 21.968685,-21.94388 z"
        id="rect877"
        inkscape:connector-curvature="0"
@@ -663,7 +653,7 @@
        inkscape:connector-curvature="0"
        id="path919"
        d="m 51.519101,256.89819 c 1.119542,-0.0141 1.871014,0.23732 2.257118,0.7007 0.405384,0.48268 0.613894,1.27441 0.613894,2.37495 v 19.24815 c 0,1.10056 -0.20851,1.89224 -0.613894,2.37494 -0.386104,0.4634 -1.137486,0.7007 -2.257118,0.7007 H 27.627305 c -1.119632,0 -1.873098,-0.2373 -2.259202,-0.7007 -0.405384,-0.4827 -0.61182,-1.27438 -0.61182,-2.37495 v -19.24814 c 0,-1.10054 0.206436,-1.89227 0.61182,-2.37495 0.38608,-0.46338 1.13957,-0.7007 2.259202,-0.7007 z"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#a2bcfe;fill-opacity:1;stroke:none;stroke-width:0.52916664;enable-background:new" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#b5d2db;fill-opacity:1;stroke:none;stroke-width:0.52916664;enable-background:new" />
     <path
        sodipodi:nodetypes="ccsscsscsscsc"
        inkscape:connector-curvature="0"
