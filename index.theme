@@ -2,6 +2,7 @@
 Name=Suru++ Telinkrin
 
 Comment=A Paul Beyens' desaturated-blue-coloured icon theme for users of Telinkrin GTK theme
+Comment[be]=Бледна-сіняя тэма абразкоў, створаная Полам Бейеном спецыяльна для карыстальнікаў GTK тэмы Telinkrin
 Comment[ca]=Un tema de icona de blau desaturat de Paul Beyens per als usuaris del tema Telinkrin GTK
 Comment[de]=Ein Paul Beyens entsättigten-blau-farbiges Ikonenthema für Benutzer des Telinkrin GTK Themas
 Comment[el]=Ένα αποκορεσμένο-μπλε θέμα εικονιδίων, του Παύλου Μπέιενς, για τους χρήστες του θέματος Telinkrin GTK
@@ -11,6 +12,8 @@ Comment[it]=Un tema blu desaturato d'icone, di Paul Beyens, per gli utenti del t
 Comment[ka]=დაუნაყრებელი ლურჯი ხატები თემა, შექმნილია პოლ ბეიენსის მიერ, Telinkrin GTK-ის მომხმარებლებისთვის
 Comment[pt_BR]=Um tema azul desaturado de ícones de Paul Beyens para usuários do tema Telinkrin GTK
 Comment[pt_PT]=Um tema azul desaturado de ícones de Paul Beyens para utilizadores do tema Telinkrin GTK
+Comment[ru]=Блекло-синяя тема иконок, созданная Полом Бейеном специально для пользователей GTK темы Telinkrin
+Comment[uk]=Блідо-синя тема іконок, створена Полом Бейєном спеціально для користувачів GTK теми Telinkrin
 
 
 DisplayDepth=32
