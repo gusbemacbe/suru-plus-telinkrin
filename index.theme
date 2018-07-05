@@ -1,5 +1,52 @@
 [Icon Theme]
 Name=Suru++ Telinkrin
+Name[en_GB]=Suru++ Telinkrin
+Name[en_US]=Suru++ Telinkrin
+Name[af]=Suru++ Telinkrin
+Name[be]=Suru++ Telinkrin
+Name[ca]=Suru++ Telinkrin
+Name[cs]=Suru++ Telinkrin
+Name[da]=Suru++ Telinkrin
+Name[de]=Suru++ Telinkrin
+Name[el]=Suru++ Telinkrin
+Name[es]=Suru++ Telinkrin
+Name[eo]=Suru++ Telinkrin
+Name[et]=Suru++ Telinkrin
+Name[fi]=Suru++ Telinkrin
+Name[fr]=Suru++ Telinkrin
+Name[fy]=Suru++ Telinkrin
+Name[ga]=Suru++ Telinkrin
+Name[gl]=Suru++ Telinkrin
+Name[hr]=Suru++ Telinkrin
+Name[is]=Suru++ Telinkrin
+Name[it]=Suru++ Telinkrin
+Name[ka]=Suru++ Telinkrin
+Name[ja]=Suru++ Telinkrin
+Name[lb]=Suru++ Telinkrin
+Name[lt]=Suru++ Telinkrin
+Name[lv]=Suru++ Telinkrin
+Name[mi]=Suru++ Telinkrin
+Name[mk]=Suru++ Telinkrin
+Name[mn]=Suru++ Telinkrin
+Name[mt]=Suru++ Telinkrin
+Name[nl]=Suru++ Telinkrin
+Name[no]=Suru++ Telinkrin
+Name[pl]=Suru++ Telinkrin
+Name[pt_BR]=Suru++ Telinkrin
+Name[pt_PT]=Suru++ Telinkrin
+Name[ro]=Suru++ Telinkrin
+Name[ru]=Suru++ Telinkrin
+Name[sk]=Suru++ Telinkrin
+Name[sl]=Suru++ Telinkrin
+Name[sq]=Suru++ Telinkrin
+Name[sr_CY]=Suru++ Telinkrin
+Name[sr_LA]=Suru++ Telinkrin
+Name[sv]=Suru++ Telinkrin
+Name[tr]=Suru++ Telinkrin
+Name[uk]=Suru++ Telinkrin
+Name[vi]=Suru++ Telinkrin
+Name[zh_CN]=Suru++ Telinkrin
+Name[zh_TW]=Suru++ Telinkrin
 
 Comment=A Paul Beyens' desaturated-blue-coloured icon theme for users of Telinkrin GTK theme
 Comment[be]=Бледна-сіняя тэма абразкоў, створаная Полам Бейеном спецыяльна для карыстальнікаў GTK тэмы Telinkrin
@@ -15,12 +62,11 @@ Comment[pt_PT]=Um tema azul desaturado de ícones de Paul Beyens para utilizador
 Comment[ru]=Блекло-синяя тема иконок, созданная Полом Бейеном специально для пользователей GTK темы Telinkrin
 Comment[uk]=Блідо-синя тема іконок, створена Полом Бейєном спеціально для користувачів GTK теми Telinkrin
 
-
 DisplayDepth=32
-
-Inherits=Suru++
-
+Encoding=UTF-8
 Example=folder
+
+Inherits=Suru,Suru++
 
 DesktopDefault=48
 DesktopSizes=16,22,32,48,64,128,256
@@ -35,7 +81,7 @@ PanelSizes=16,22,32,48,64,128,256
 DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 
-Directories=actions/16,actions/22,actions/24,actions/32,actions/48,actions/64,actions/128,actions/symbolic,animations/16,animations/24,apps/16,apps/24,apps/scalable,apps/symbolic,categories/16,categories/24,categories/32,categories/48,categories/64,categories/symbolic,devices/16,devices/24,devices/48,devices/64,devices/128,devices/symbolic,emblems/16,emblems/symbolic,mimetypes/16,mimetypes/24,mimetypes/256,mimetypes/symbolic,places/16,places/24,places/32,places/scalable,places/symbolic,status/16,status/24,status/48,status/64,status/symbolic
+Directories=actions/16,actions/22,actions/24,actions/32,actions/scalable,actions/symbolic,animations/16,animations/24,apps/16,apps/24,apps/scalable,apps/symbolic,categories/16,categories/24,categories/32,categories/scalable,categories/symbolic,devices/16,devices/24,devices/32,devices/scalable,devices/symbolic,emblems/16,emblems/symbolic,extras/mimetypes/16,mimetypes/24,mimetypes/32,mimetypes/scalable,mimetypes/symbolic,places/16,places/24,places/32,places/scalable,places/symbolic,status/16,status/24,status/scalable,status/symbolic,stock/16,stock/24,stock/32,stock/48,stock/64,stock/96,stock/scalable
 
 [actions/16]
 Context=Actions
@@ -59,25 +105,11 @@ MinSize=8
 MaxSize=47
 Type=Scalable
 
-[actions/48]
-Size=48
+[actions/scalable]
 Context=Actions
-MinSize=8
-MaxSize=63
-Type=Scalable
-
-[actions/64]
-Size=64
-Context=Actions
-MinSize=8
-MaxSize=127
-Type=Scalable
-
-[actions/128]
-Size=128
-Context=Actions
-MinSize=8
-MaxSize=256
+Size=512
+MinSize=1
+MaxSize=512
 Type=Scalable
 
 [actions/symbolic]
@@ -126,82 +158,55 @@ MaxSize=512
 Type=Scalable
 
 [categories/16]
-Size=16
-Scale=2
 Context=Categories
-MinSize=8
-MaxSize=23
-Type=Scalable
+Size=16
+Type=Fixed
 
 [categories/24]
-Size=24
 Context=Categories
-MinSize=8
-MaxSize=31
-Type=Scalable
+Size=24
+Type=Fixed
 
 [categories/32]
+Context=Categories
 Size=32
-Context=Categories
-MinSize=8
-MaxSize=47
-Type=Scalable
+Type=Fixed
 
-[categories/48]
-Size=48
+[categories/scalable]
 Context=Categories
-MinSize=8
-MaxSize=63
-Type=Scalable
-
-[categories/64]
-Size=64
-Context=Categories
-MinSize=8
-MaxSize=127
+Size=512
+MinSize=1
+MaxSize=512
 Type=Scalable
 
 [categories/symbolic]
-Size=16
 Context=Categories
+Size=16
 MinSize=8
 MaxSize=512
 Type=Scalable
 
 [devices/16]
-Size=16
 Context=Devices
-MinSize=8
-MaxSize=23
-Type=Scalable
+Size=16
+Type=Fixed
 
 [devices/24]
+Context=Devices
 Size=24
-Context=Devices
-MinSize=8
-MaxSize=31
-Type=Scalable
+Type=Fixed
 
-[devices/48]
-Size=48
+[devices/32]
 Context=Devices
-MinSize=8
-MaxSize=63
-Type=Scalable
+Size=32
+Type=Fixed
 
-[devices/64]
-Size=64
+[devices/scalable]
 Context=Devices
+Size=512
+MinSize=1
+MaxSize=512
 Type=Scalable
-MinSize=64
-MaxSize=256
-
-[devices/128]
-Size=128
-Context=Devices
-Type=Scalable
-MinSize=128
-MaxSize=256
 
 [devices/symbolic]
 Size=16
@@ -229,24 +234,21 @@ Type=Fixed
 
 [mimetypes/16]
 Size=16
-Scale=2
-Context=MimeTypes
-MinSize=8
-MaxSize=23
-Type=Scalable
+Type=Fixed
 
 [mimetypes/24]
 Size=24
-Context=MimeTypes
-MinSize=22
-MaxSize=24
-Type=Scalable
+Type=Fixed
 
-[mimetypes/256]
-Size=256
+[mimetypes/32]
+Size=32
+Type=Fixed
+
+[mimetypes/scalable]
 Context=Mimetypes
-MinSize=32
-MaxSize=256
+Size=512
+MinSize=1
+MaxSize=512
 Type=Scalable
 
 [mimetypes/symbolic]
@@ -257,26 +259,19 @@ MaxSize=512
 Type=Scalable
 
 [places/16]
-Size=16
-Scale=2
 Context=Places
-MinSize=8
-MaxSize=23
-Type=Scalable
+Size=16
+Type=Fixed
 
 [places/24]
-Size=24
 Context=Places
-MinSize=8
-MaxSize=31
-Type=Scalable
+Size=24
+Type=Fixed
 
 [places/32]
-Size=32
 Context=Places
-Type=Scalable
-MinSize=32
-MaxSize=48
+Size=32
+Type=Fixed
 
 [places/scalable]
 Context=Places
@@ -306,19 +301,11 @@ MinSize=8
 MaxSize=31
 Type=Scalable
 
-[status/48]
-Size=48
+[status/scalable]
 Context=Status
-MinSize=8
-MaxSize=63
-Type=Scalable
-
-[status/64]
-Size=64
-Scale=2
-Context=Status
-MinSize=8
-MaxSize=127
+Size=512
+MinSize=1
+MaxSize=512
 Type=Scalable
 
 [status/symbolic]
@@ -328,3 +315,44 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
+[stock/16]
+Size=16
+Context=Stock
+Type=fixed
+
+[stock/22]
+Size=22
+Context=Stock
+Type=fixed
+
+[stock/24]
+Size=24
+Context=Stock
+Type=fixed
+
+[stock/32]
+Size=32
+Context=Stock
+Type=fixed
+
+[stock/48]
+Size=48
+Context=Stock
+Type=fixed
+
+[stock/64]
+Size=64
+Context=Stock
+Type=fixed
+
+[stock/96]
+Size=96
+Context=Stock
+Type=fixed
+
+[stock/scalable]
+Size=96
+Context=Stock
+Type=Scalable
+MinSize=8
+MaxSize=512
