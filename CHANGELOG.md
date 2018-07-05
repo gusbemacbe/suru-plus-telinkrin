@@ -1,3 +1,270 @@
+# v15
+
+* Belarusian, Russian and Ukrainian translations added. Thanks to @bzhmurov!
+* Fixed the wrong icons of Clocks
+
+## Icons designed by Gustavo Costa (@gusbemacbe):
+
+* Added missed applications icons:
+  * 1Pasword
+  * 2GIS
+  * 3Depict
+  * 4chan
+  * 4kvideodownloader
+  * 4Pane
+  * 7z
+  * 9gag
+  * AArdict
+  * Abgx 360
+  * Abricotine
+  * aBrowser
+  * Accerciser
+  * Accessories - Arhciver
+  * Accessories - Image Viewer
+  * Accessories - Media Converter
+  * Accessories - Painting
+  * Accessories - Podcast
+  * Accessories - Screenshot
+  * Accessories - System Cleaning
+  * Accessories - Thesaurus
+  * ACE Stream Player
+  * Acessories - Document Viewer
+  * Acetino
+  * AChemTool
+  * AcidDrip
+  * Actiona
+  * Agave
+  * Agenda
+  * Albert
+  * Alevt
+  * Alexandra
+  * Almanac
+  * AlphaPlot
+  * Alsamixer
+  * Altyo
+  * Amarok
+  * Amazon Canada
+  * Amazon China
+  * Amazon France
+  * Amazon Germany
+  * Amazon Great Britain
+  * Amazon Italy
+  * Amazon MP3 Store
+  * Amazon Spain
+  * AMD Ati
+  * AmSYnth
+  * Anaconda
+  * Ancestris
+  * Android ARC
+  * Android SDK
+  * AngrySearch
+  * Anjuta
+  * Anki
+  * Antimicro
+  * AnyDo
+  * APTIK Battery Monitor
+  * AptonCD
+  * Apx
+  * Aquemu
+  * Arch Linux
+  * Ardour
+  * Arduino
+  * Areca
+  * Argouml
+  * Ariamaestrosa
+  * Ark Client
+  * Arronax
+  * ArteFetcher
+  * ArteHashit
+  * ArtePlayMyMusic
+  * ArtePlayMyVideos
+  * ArteScrenshot
+  * ArteWebpin
+  * Arts
+  * AS
+  * Asbru
+  * ASC
+  * ASCII Design
+  * ASE
+  * Astah
+  * Atunes
+  * Auale
+  * Audacious
+  * Audacit
+  * Audience
+  * Audio Recorder
+  * AudioBook
+  * Aural Quiz
+  * Autocad
+  * Autokey
+  * Avast
+  * Avidemux
+  * Avocode
+  * AWN Applet
+  * AWN Applet Digital Clock
+  * AWN Manager
+  * Azureus
+  * B1 News
+  * Beyond Compare
+  * Bugzilla 3
+  * Cerebro
+  * ChmSee
+  * Colour Profile
+  * Compton (@Magog64)
+  * Eclipse JEE
+  * EOm (@Magog64)
+  * Files (Nemo)
+  * Folder Remote
+  * Foxit Reader
+  * GNOME MPV
+  * Google Translator
+  * GTK DiskFRee
+  * GTK Hash (@Magog64)
+  * GTK Select Colour (@Magog64)
+  * GTK3 Demo
+  * GTK3 Widget Factory
+  * GTK4 Demo
+  * KDiskFree
+  * Kig
+  * Kiten
+  * KMix
+  * KmPlot
+  * KStars (by INipai Studio)
+  * lFTP
+  * LightDM SEttings
+  * MiamPlayer
+  * MidnightCommander
+  * Mozo (@Magog64)
+  * Oracle Java 8
+  * Osmo
+  * Panel Drawer
+  * PHPSTorm
+  * PyCharm
+  * Python 3.5
+  * RClock
+  * Remmina (@Magog64)
+  * Revelation
+  * Rygel
+  * Seahorse Preferences
+  * Softare Properties GTK (@Magog64)
+  * Software Center
+  * Synthesia
+  * TRON (by @Magog64)
+  * Typora
+  * Vidiot
+  * Yarock
+
+* Added categoric applications icons in the folder `apps`:
+  * Applications - Accessories 
+  * Applications - Development
+  * Applications - Fonts
+  * Applications - Games
+  * Applications - Graphics
+  * Applications - Internet
+  * Applications - Multimedia
+  * Applications - Office
+  * Applications - Other
+  * Applications - PHP
+  * Applications - Python
+  * Applications - Science
+  * Applications - System
+  * Applications - System Orange
+
+* Added Adobe applications icons:
+  * Adobe Flash
+  * Adobe After Effects
+  * Adobe Audition
+  * Adobe Bridge
+  * Adobe Dreamworks
+  * Adobe Encode
+  * Adobe Fireworks
+  * Adobe Illustrator
+  * Adobe InDesign
+  * Adobe Lightroom
+  * Adobe Photoshop
+  * Adobe Prelude
+  * Adobe Premiere Pro
+  * Adobe Speedgrade
+  * Adobe Update
+  * Adobe Widget Browser
+
+* Added Debian's Gnome Cntrol Centre icons for @bzhmurov:
+  * Appearance
+  * Accessibility
+  * Background
+  * Battery
+  * Bluetooth
+  * Browser
+  * Clock
+  * Colour Profile
+  * Date and Time
+  * Details
+  * Display
+  * Keyboard
+  * Language and Region
+  * Mouse
+  * Multimedia
+  * Network
+  * Notifications
+  * Panel
+  * Passwords
+  * Power
+  * Privacy
+  * Printer
+  * Sound
+  * Tablet/Wacom
+  * Users
+  * Wallpaper
+
+* Added missed Deepin icons:
+  * Deepin File Manager
+  * Deepin Introduction
+  * Deepin App Store
+  * Deepin Boot Maker
+  * Deepin Calculator
+  * Deepin Clne
+  * Deepin Cloud Print
+  * Deepin Cloud Scan
+  * Deepin Debian Installer
+  * Deepin Editor
+  * Deepin Feedback
+  * Deepin Font Installer
+  * Deepin Graphics DRiver
+  * Deepin Manual
+  * Deepin Movie
+  * Deepin Multitasking View
+  * Deepin System MOnitor
+  * Deepin Terminal
+  * Deepin Toggle Desktop
+
+* Added missed Linux Mint icons:
+  * Colour Profile
+  * Netspeed Applet
+  * Panel Clock
+  * Panel Notification
+  * Power Management
+  * Preferences Colour Profile
+
+* Added missed Manjaro icons.
+* Added missed XFCE and FXCE4 applications icons.
+
+* Added Steam icons:
+  * 0 A.D.
+  * 8 Ball Pool
+  * Acorn
+  * Adventure Editor
+  * Alien Arena
+  * Amnesia Dark Descent (by @Magog64)
+  * And Yet It MOves
+  * Aspette
+  * Assault Cube
+  * Astromenace (by @Magog64)
+  * ATomic
+  * Awesomonauts (by @Magog64)
+  * Halo
+  * Origin
+  * 
+
 # v13
 
 Designed @Magog64:
