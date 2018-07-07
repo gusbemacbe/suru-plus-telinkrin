@@ -1,3 +1,7 @@
+# v15.1
+
+* I removed the file `icon-theme.cache` which caused GNOME and GNOME Tweaks Tool to break. It is fixed. It was an old cache of Numix icon themes and of Deepin OS. 
+
 # v15
 
 * Belarusian, Russian and Ukrainian translations added. Thanks to @bzhmurov!
