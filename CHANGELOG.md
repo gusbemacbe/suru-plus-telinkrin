@@ -1,4 +1,4 @@
-« v15.2
+# v15.2
 
 * After removing `icon-theme.cache`, some unncessary files – the files `.gitattributes`, `.gitignore` and the folder `.github`for not harming the GNOME.
 
