@@ -1,4 +1,7 @@
-
+.git
+.github
+.gittatributes
+.gitignore
 .vscode/settings.json
 .vscode/spellright.dict
 .DS_Store
@@ -10,3 +13,13 @@ actions/32/.directory
 apps/16/.directory
 places/16/.directory
 /apps/24/azureus.svg
+/apps/scalable/azureus.svg
+/apps/scalable/charmap.svg
+/apps/symbolic/azureus-symbolic.svg
+/apps/24/kdiskfree.svg
+/apps/scalable/org.gnome.Clocks.svg
+/apps/symbolic/kdiskfree-symbolic.svg
+/apps/16/azureus.svg
+/apps/scalable/kdiskfree.svg
+/apps/16/kdiskfree.svg
+/apps/scalable/pyrenamer.svg
