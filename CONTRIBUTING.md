@@ -13,6 +13,7 @@ The original Suru icon set and concept was created by:
 Core developers (in order of appearance):
 
 - Andrea Bonanni (original author) <bonandry@gmail.com>
+- Paulxfce (original author of desaturated-blue colour) <@paulxfce>
 
 Collaborators and contributors:
 
