@@ -10,9 +10,9 @@
  </defs>
  <path d="M165.689 11.95c74.056 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.583 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.494c0-73.987 10.584-84.544 84.639-84.544h75.37z" filter="url(#a)"/>
  <linearGradient id="b" x1=".25" x2=".75" y1=".036" y2=".844" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-  <stop offset="0%" stop-color="#f61111"/>
-  <stop offset="48.272%" stop-color="#ff4f4f"/>
-  <stop offset="100%" stop-color="#ff7a55"/>
+  <stop offset="0%" stop-color="#66a0b4"/>
+  <stop offset="48.272%" stop-color="#7badbe"/>
+  <stop offset="100%" stop-color="#7dafbf"/>
  </linearGradient>
  <path fill="url(#b)" d="M165.69 11.95c74.056 0 84.64 10.557 84.64 84.544v59.252c0 73.986-10.584 84.544-84.64 84.544H90.32c-74.056 0-84.64-10.558-84.64-84.544V96.494c0-73.987 10.584-84.544 84.64-84.544h75.37z"/>
  <path opacity=".05" d="M90.32 11.95c-74.056 0-84.64 10.557-84.64 84.544v59.252c0 35.819 2.48 56.772 13.443 68.857L185.09 44.57l27.091-29.387c-11.7-2.473-26.844-3.233-46.491-3.233H90.32z"/>
@@ -35,7 +35,7 @@
   </filter>
  </defs>
  <path opacity=".1" d="M130.44 46.609l-75.097 81.55 26.4 28.514v.002l48.697 53.034h54.65l-75.087-81.56 75.087-81.54h-54.65z" filter="url(#e)"/>
- <path fill="#ffdfd6" d="M130.439 207.67h54.651L92.085 106.646l-10.341 47.991 48.695 53.033z"/>
+ <path fill="#a4c7d2" d="M130.439 207.67h54.651L92.085 106.646l-10.341 47.991 48.695 53.033z"/>
  <path fill="none" d="M130.439 207.67h54.651L92.085 106.646l-10.341 47.991 48.695 53.033z"/>
  <defs>
   <filter id="f" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
@@ -43,12 +43,12 @@
   </filter>
  </defs>
  <path opacity=".1" d="M130.439 44.57h54.651l-75.097 81.55-28.155 28.617-26.495-28.617 75.096-81.55z" filter="url(#f)"/>
- <path fill="#fff7f1" d="M130.439 44.57h54.651l-75.097 81.55-28.155 28.617-26.495-28.617 75.096-81.55z"/>
- <path fill="#ffffff" d="M130.44 44.57l-75.097 81.55.941 1.017 74.156-80.528h52.773l1.877-2.039h-54.65z"/>
+ <path fill="#acccd6" d="M130.439 44.57h54.651l-75.097 81.55-28.155 28.617-26.495-28.617 75.096-81.55z"/>
+ <path fill="#b0ced8" d="M130.44 44.57l-75.097 81.55.941 1.017 74.156-80.528h52.773l1.877-2.039h-54.65z"/>
  <g opacity=".4">
   <linearGradient id="g" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#ffffff"/>
-   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#b0ced8"/>
+   <stop offset="12.5%" stop-color="#b0ced8" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>
