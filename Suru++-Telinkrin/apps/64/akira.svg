@@ -48,8 +48,8 @@
    <stop stop-color="#467d8f" offset="1"/>
   </linearGradient>
   <linearGradient id="paint1_linear" x1="64.969" x2="64.969" y1="56" y2="192.514" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#7eafbf" offset="1e-7"/>
-   <stop stop-color="#7caebe" offset=".5"/>
+   <stop stop-color="#aed1de" offset="1e-7"/>
+   <stop stop-color="#a0c9d8" offset=".5"/>
    <stop stop-color="#65a0b3" offset="1"/>
   </linearGradient>
   <linearGradient id="paint2_linear" x1="61" x2="61" y1="124.689" y2="196.857" gradientUnits="userSpaceOnUse">

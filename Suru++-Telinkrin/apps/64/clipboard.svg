@@ -37,7 +37,7 @@
   <g opacity=".2">
    <rect width="87.71" height="99.562" x="66.57" y="75.33" transform="matrix(1,0,0,1,0,0)"/>
   </g>
-  <rect fill="#b0ced8" width="87.71" height="99.562" x="66.57" y="72.96" transform="matrix(1,0,0,1,0,0)"/>
+  <rect fill="#cae1e9" width="87.71" height="99.562" x="66.57" y="72.96" transform="matrix(1,0,0,1,0,0)"/>
   <g opacity=".2">
    <path fill="#b0ced8" d="M 66.567 61.112 C 60.001 61.112 54.714 66.398 54.714 72.964 L 54.714 75.335 C 54.714 68.768 60.001 63.482 66.567 63.482 L 156.647 63.482 C 163.214 63.482 168.5 68.768 168.5 75.335 L 168.5 72.964 C 168.5 66.398 163.214 61.112 156.647 61.112 L 66.567 61.112 Z"/>
   </g>
@@ -51,15 +51,15 @@
   </g>
  </g>
  <g>
-  <rect fill="#acccd6" width="84.559" height="85.513" x="103.6" y="113.63" transform="matrix(1,0,0,1,0,0)"/>
+  <rect fill="#d8e9ef" width="84.559" height="85.513" x="103.6" y="113.63" transform="matrix(1,0,0,1,0,0)"/>
   <path fill="#6aa3b6" d="M 186.324 115.487 L 186.324 197.282 L 105.441 197.282 L 105.441 115.487 L 186.324 115.487 Z M 190 111.769 L 101.765 111.769 L 101.765 201 L 190 201 L 190 111.769 Z"/>
-  <rect fill="#acccd6" width="3.676" height="89.231" x="171.62" y="111.77" transform="matrix(1,0,0,1,0,0)"/>
-  <rect fill="#acccd6" width="3.676" height="89.231" x="153.24" y="111.77" transform="matrix(1,0,0,1,0,0)"/>
-  <rect fill="#acccd6" width="3.676" height="89.231" x="134.85" y="111.77" transform="matrix(1,0,0,1,0,0)"/>
-  <rect fill="#acccd6" width="3.676" height="89.231" x="116.47" y="111.77" transform="matrix(1,0,0,1,0,0)"/>
-  <rect fill="#acccd6" width="3.718" height="88.235" x="144.02" y="140.15" transform="matrix(0,1,-1,0,330.151,38.386)"/>
-  <rect fill="#acccd6" width="3.718" height="88.235" x="144.02" y="121.56" transform="matrix(0,1,-1,0,311.562,19.796)"/>
-  <rect fill="#acccd6" width="3.718" height="88.235" x="144.02" y="102.97" transform="matrix(0,1,-1,0,292.972,1.206)"/>
-  <rect fill="#acccd6" width="3.718" height="88.235" x="144.02" y="84.38" transform="matrix(0,1,-1,0,274.383,-17.382)"/>
+  <rect fill="#d8e9ef" width="3.676" height="89.231" x="171.62" y="111.77" transform="matrix(1,0,0,1,0,0)"/>
+  <rect fill="#d8e9ef" width="3.676" height="89.231" x="153.24" y="111.77" transform="matrix(1,0,0,1,0,0)"/>
+  <rect fill="#d8e9ef" width="3.676" height="89.231" x="134.85" y="111.77" transform="matrix(1,0,0,1,0,0)"/>
+  <rect fill="#d8e9ef" width="3.676" height="89.231" x="116.47" y="111.77" transform="matrix(1,0,0,1,0,0)"/>
+  <rect fill="#d8e9ef" width="3.718" height="88.235" x="144.02" y="140.15" transform="matrix(0,1,-1,0,330.151,38.386)"/>
+  <rect fill="#d8e9ef" width="3.718" height="88.235" x="144.02" y="121.56" transform="matrix(0,1,-1,0,311.562,19.796)"/>
+  <rect fill="#d8e9ef" width="3.718" height="88.235" x="144.02" y="102.97" transform="matrix(0,1,-1,0,292.972,1.206)"/>
+  <rect fill="#d8e9ef" width="3.718" height="88.235" x="144.02" y="84.38" transform="matrix(0,1,-1,0,274.383,-17.382)"/>
  </g>
 </svg>

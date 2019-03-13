@@ -34,9 +34,9 @@
    <path fill="#a5c7d3" d="M 168.763 70.148 L 168.763 172.634 L 111.826 172.634 L 168.763 70.148 Z"/>
    <path fill="#a5c7d3" d="M 5.502 80.47 L 5.502 104.443 L 29.476 104.443 L 29.476 80.47 L 5.502 80.47 Z M 5.502 115.098 L 5.502 123.089 L 138.077 123.089 L 138.077 115.098 L 5.502 115.098 Z M 5.502 131.08 L 5.502 139.071 L 138.077 139.071 L 138.077 131.08 L 5.502 131.08 Z M 5.502 147.062 L 5.502 155.053 L 138.077 155.053 L 138.077 147.062 L 5.502 147.062 Z"/>
    <linearGradient id="_lgradient_305" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(98.557,0,0,151.831,96.776,51.169)" gradientUnits="userSpaceOnUse">
-    <stop offset="0%" style="stop-color:#7eafbf"/>
-    <stop offset="50%" style="stop-color:#7caebe"/>
-    <stop offset="100%" style="stop-color:#65a0b3"/>
+    <stop offset="0%" style="stop-color:#508da1"/>
+    <stop offset="50%" style="stop-color:#3c6a7a"/>
+    <stop offset="100%" style="stop-color:#365f6d"/>
    </linearGradient>
    <path fill="url(#_lgradient_305)" d="M 159.6 51.169 L 96.776 167.051 L 96.776 184.354 L 160.705 184.354 L 160.705 203 L 184.679 203 L 184.679 184.354 L 195.333 184.354 L 195.333 160.381 L 184.679 160.381 L 184.679 51.169 L 172.559 51.169 L 159.6 51.169 Z M 160.705 94.643 L 160.705 160.381 L 123.71 160.381 L 160.705 94.643 Z"/>
   </g>
