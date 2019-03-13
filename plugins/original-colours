@@ -81,9 +81,14 @@
 #00f076
 #00f260
 #00fdff
+#00ff00
+#00ff44
+#00ff55
 #00ff99
 #00ffaa
+#00ffee
 #00fff2
+#00ffff
 #010101
 #01796d
 #018a8e
@@ -155,6 +160,7 @@
 #111111
 #113e42
 #11ab66
+#11ff00
 #1268f4
 #12a486
 #131313
@@ -707,6 +713,7 @@
 #55c1ec
 #55d620
 #55eedf
+#55ff00
 #56300d
 #56555b
 #565656
@@ -1194,9 +1201,12 @@
 #a9c3de
 #a9debe
 #a9f50f
+#aa0000
+#aa00ff
 #aa361f
 #aa700a
 #aae961
+#aaff00
 #ab135f
 #ab4c1a
 #ab7a3f
@@ -1285,6 +1295,7 @@
 #baff41
 #bb8416
 #bBA6C3
+#bbbbbb
 #bbc91b
 #bbdefb
 #bc1938
@@ -2001,12 +2012,17 @@
 #fefefe
 #feffe7
 #feffff
+#ff0000
+#ff0011
 #ff0015
 #ff0039
 #ff0040
+#ff0055
 #ff0056
 #ff005d
+#ff0066
 #ff00bb
+#ff00ff
 #ff0538
 #ff0c4e
 #ff1434
@@ -2051,6 +2067,7 @@
 #ff5e34
 #ff6012
 #ff6300
+#ff6600
 #ff6711
 #ff6bbe
 #ff6c09
@@ -2091,6 +2108,7 @@
 #ff9800
 #ff9900
 #ff990f
+#ff9955
 #ff9a00
 #ff9c00
 #ff9e72
@@ -2117,6 +2135,7 @@
 #ffb900
 #ffba00
 #ffba57
+#ffbb00
 #ffbc8d
 #ffbd00
 #ffbf00
@@ -2162,6 +2181,7 @@
 #ffdc10
 #ffdc5a
 #ffdc68
+#ffdd00
 #ffde00
 #ffdfd6
 #ffe000
@@ -2184,7 +2204,9 @@
 #ffebee
 #ffec57
 #ffecb1
+#ffee00
 #ffee4c
+#ffee55
 #ffefab
 #ffefb3
 #fff06f

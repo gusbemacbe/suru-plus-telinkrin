@@ -8,6 +8,10 @@ Finds RGB colors in form of #xxxxxx
 
 `#[0-9a-f]{6}`
 
+Finds RGB colors in form of #xxx 
+
+`#[0-9a-f]{3}\W`
+
 Find all duplicates with count
 
 `sort | uniq -dc`
