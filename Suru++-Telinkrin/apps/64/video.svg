@@ -16,8 +16,8 @@
   <path fill="url(#_lgradient_3)" d="M 165.691 11.95 C 239.746 11.95 250.33 22.507 250.33 96.494 L 250.33 155.745 C 250.33 229.731 239.746 240.288 165.691 240.288 L 90.321 240.288 C 16.265 240.288 5.682 229.731 5.682 155.745 L 5.682 96.494 C 5.682 22.507 16.265 11.95 90.321 11.95 L 165.691 11.95 Z"/>
  </g>
  <linearGradient id="_lgradient_4" x1=".567" x2=".567" y1="1.071" y2="-.742" gradientTransform="matrix(243.122,0,0,56.963,6.434,183.326)" gradientUnits="userSpaceOnUse">
-  <stop offset="0%" style="stop-color:#77abbc"/>
-  <stop offset="100%" style="stop-color:#9dc2cf"/>
+  <stop offset="0%" style="stop-color:#cae1e9"/>
+  <stop offset="100%" style="stop-color:#bcd9e3"/>
  </linearGradient>
  <path fill="url(#_lgradient_4)" d="M 249.556 183.326 C 246.102 232.49 229.339 240.288 165.691 240.288 L 90.321 240.288 C 26.795 240.288 9.975 232.52 6.476 183.609 C 2.769 184.75 247.004 184.545 249.556 183.326 Z"/>
  <g opacity=".4">
@@ -66,7 +66,7 @@
    </filter>
   </defs>
   <g filter="url(#UdizBsyfybHmG3dICkkD2WlEtNRL9IcY)">
-   <circle fill="#b0ced8" cx="152" cy="206.333" r="12" vector-effect="non-scaling-stroke"/>
+   <circle fill="#365f6d" cx="152" cy="206.333" r="12" vector-effect="non-scaling-stroke"/>
   </g>
  </g>
  <defs>
@@ -80,8 +80,8 @@
  </defs>
  <g filter="url(#v9L4AW7p9wxqqjmS5BAlzSHImsZUHmev)">
   <linearGradient id="_lgradient_6" x1="-.175" x2="1.306" y1="1.379" y2=".366" gradientTransform="matrix(92.133,0,0,99.969,90.333,51.698)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#b0ced8"/>
-   <stop offset="100%" style="stop-color:#9ac0cd"/>
+   <stop offset="0%" style="stop-color:#e6f1f5"/>
+   <stop offset="100%" style="stop-color:#d8e9ef"/>
   </linearGradient>
   <path fill="url(#_lgradient_6)" d="M 90.333 51.698 L 90.333 151.667 C 90.333 151.667 141.036 131.174 182.467 101.65 C 182.467 101.641 182.462 101.635 182.457 101.623 C 182.451 101.611 182.446 101.6 182.438 101.59 C 182.429 101.577 182.422 101.568 182.417 101.557 C 182.411 101.547 182.407 101.536 182.407 101.525 C 138.705 71.061 90.333 51.698 90.333 51.698 Z"/>
  </g>
